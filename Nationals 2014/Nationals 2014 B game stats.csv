@@ -1,0 +1,127 @@
+"player","round","score","opp.no.","player.no.","bye","vp","result","start","opp","opp.score","margin","blank","j","q","x","z","s","overtime","minute","second","power.tiles","bingo.count","bingo.points"
+"Lee Chee Meng",1,493,7,1,"N",1,"Win","Y","Valliammah Thambiaya",318,175,2,1,1,1,1,2,"",NA,NA,8,2,156
+"Shukra Raj Gurung",1,355,3,2,"N",1,"Win","N","Nicholas Lee",350,5,1,1,1,1,0,2,"N",3,47,6,0,0
+"Nicholas Lee",1,350,2,3,"N",0,"Lose","Y","Shukra Raj Gurung",355,-5,1,0,0,0,1,2,"N",11,54,4,0,0
+"Mohammed Ameen",1,357,5,4,"N",1,"Win","N","S Shanthikumar",353,4,1,1,1,1,0,2,"N",3,38,6,0,0
+"S Shanthikumar",1,353,4,5,"N",0,"Lose","Y","Mohammed Ameen",357,-4,1,0,0,0,1,2,"N",0,8,4,0,0
+"Shahrul Kamal",1,282,8,6,"N",0,"Lose","N","Khumraj Thapa",469,-187,1,0,0,0,0,3,"",NA,NA,4,0,0
+"Valliammah Thambiaya",1,318,1,7,"N",0,"Lose","N","Lee Chee Meng",493,-175,0,0,0,0,0,2,"",NA,NA,2,0,0
+"Khumraj Thapa",1,469,6,8,"N",1,"Win","Y","Shahrul Kamal",282,187,1,1,1,1,1,1,"",NA,NA,6,0,0
+"Lee Chee Meng",2,427,3,1,"N",1,"Win","Y","Nicholas Lee",324,103,0,1,0,1,1,2,"N",4,39,5,1,75
+"Shukra Raj Gurung",2,416,5,2,"N",1,"Win","Y","S Shanthikumar",387,29,1,0,1,1,1,2,"N",11,34,6,1,66
+"Nicholas Lee",2,324,1,3,"N",0,"Lose","N","Lee Chee Meng",427,-103,2,0,1,0,0,2,"N",6,36,5,1,62
+"Mohammed Ameen",2,345,8,4,"N",0,"Lose","Y","Khumraj Thapa",371,-26,1,1,1,0,0,3,"N",3,40,6,0,0
+"S Shanthikumar",2,387,2,5,"N",0,"Lose","N","Shukra Raj Gurung",416,-29,1,1,0,0,0,2,"N",8,39,4,0,0
+"Shahrul Kamal",2,334,7,6,"N",0,"Lose","N","Valliammah Thambiaya",366,-32,NA,0,0,0,0,3,"",NA,NA,NA,0,0
+"Valliammah Thambiaya",2,366,6,7,"N",1,"Win","Y","Shahrul Kamal",334,32,NA,0,1,1,1,1,"",NA,NA,NA,0,0
+"Khumraj Thapa",2,371,4,8,"N",1,"Win","N","Mohammed Ameen",345,26,1,0,0,1,1,1,"N",7,34,4,1,79
+"Lee Chee Meng",3,504,5,1,"N",1,"Win","N","S Shanthikumar",379,125,2,1,0,0,1,4,"N",0,49,8,3,205
+"Shukra Raj Gurung",3,453,8,2,"N",1,"Win","N","Khumraj Thapa",246,207,2,1,0,1,1,1,"N",13,24,6,2,140
+"Nicholas Lee",3,436,7,3,"N",1,"Win","N","Valliammah Thambiaya",430,6,2,1,1,0,0,1,"N",7,0,5,1,73
+"Mohammed Ameen",3,366,6,4,"N",1,"Win","N","Shahrul Kamal",292,74,0,0,1,0,0,2,"N",5,30,3,0,0
+"S Shanthikumar",3,379,1,5,"N",0,"Lose","Y","Lee Chee Meng",504,-125,0,0,1,1,0,0,"N",0,12,2,0,0
+"Shahrul Kamal",3,292,4,6,"N",0,"Lose","Y","Mohammed Ameen",366,-74,2,1,0,1,1,2,"Y",0,14,7,1,58
+"Valliammah Thambiaya",3,430,3,7,"N",0,"Lose","Y","Nicholas Lee",436,-6,0,0,0,1,1,3,"N",3,0,5,0,0
+"Khumraj Thapa",3,246,2,8,"N",0,"Lose","Y","Shukra Raj Gurung",453,-207,0,0,1,0,0,3,"N",4,54,4,0,0
+"Lee Chee Meng",4,357,8,1,"N",0,"Lose","Y","Khumraj Thapa",475,-118,1,0,1,1,0,2,"N",7,57,5,1,63
+"Shukra Raj Gurung",4,319,6,2,"N",0,"Lose","Y","Shahrul Kamal",425,-106,0,0,1,0,1,2,"N",4,44,4,0,0
+"Nicholas Lee",4,384,5,3,"N",1,"Win","Y","S Shanthikumar",353,31,2,1,0,0,0,2,"N",11,9,5,2,128
+"Mohammed Ameen",4,435,7,4,"N",1,"Win","Y","Valliammah Thambiaya",342,93,2,1,0,1,0,2,"",NA,NA,6,2,149
+"S Shanthikumar",4,353,3,5,"N",0,"Lose","N","Nicholas Lee",384,-31,0,0,1,1,1,2,"N",0,45,5,0,0
+"Shahrul Kamal",4,425,2,6,"N",1,"Win","N","Shukra Raj Gurung",319,106,2,1,0,1,0,2,"N",10,25,6,0,0
+"Valliammah Thambiaya",4,342,4,7,"N",0,"Lose","N","Mohammed Ameen",435,-93,0,0,1,0,1,2,"",NA,NA,4,0,0
+"Khumraj Thapa",4,475,1,8,"N",1,"Win","N","Lee Chee Meng",357,118,1,1,0,0,1,2,"N",8,33,5,3,249
+"Lee Chee Meng",5,362,6,1,"N",0,"Lose","N","Shahrul Kamal",390,-28,1,1,0,0,0,3,"",NA,NA,5,1,70
+"Shukra Raj Gurung",5,412,4,2,"N",1,"Win","N","Mohammed Ameen",270,142,2,1,0,1,0,2,"N",2,27,6,1,60
+"Nicholas Lee",5,317,8,3,"N",0,"Lose","N","Khumraj Thapa",401,-84,1,0,0,0,0,1,"N",11,13,2,0,0
+"Mohammed Ameen",5,270,2,4,"N",0,"Lose","Y","Shukra Raj Gurung",412,-142,0,0,1,0,1,2,"N",14,49,4,0,0
+"S Shanthikumar",5,368,7,5,"N",0,"Lose","Y","Valliammah Thambiaya",444,-76,0,0,0,1,0,0,"",NA,NA,1,0,0
+"Shahrul Kamal",5,390,1,6,"N",1,"Win","Y","Lee Chee Meng",362,28,1,0,1,1,1,1,"",NA,NA,5,1,74
+"Valliammah Thambiaya",5,444,5,7,"N",1,"Win","N","S Shanthikumar",368,76,2,1,1,0,1,4,"",NA,NA,9,0,0
+"Khumraj Thapa",5,401,3,8,"N",1,"Win","Y","Nicholas Lee",317,84,1,1,1,1,1,3,"N",5,20,8,1,123
+"Lee Chee Meng",6,353,4,1,"N",0,"Lose","Y","Mohammed Ameen",436,-83,0,1,1,0,0,1,"N",1,55,3,0,0
+"Shukra Raj Gurung",6,391,7,2,"N",1,"Win","N","Valliammah Thambiaya",310,81,2,0,0,0,0,2,"N",8,56,4,1,68
+"Nicholas Lee",6,425,6,3,"N",1,"Win","Y","Shahrul Kamal",351,74,1,0,1,1,0,2,"N",12,55,5,2,146
+"Mohammed Ameen",6,436,1,4,"N",1,"Win","N","Lee Chee Meng",353,83,2,0,0,1,1,3,"N",9,50,7,2,159
+"S Shanthikumar",6,293,8,5,"N",0,"Lose","Y","Khumraj Thapa",303,-10,1,1,0,1,1,1,"",NA,NA,5,0,0
+"Shahrul Kamal",6,351,3,6,"N",0,"Lose","N","Nicholas Lee",425,-74,1,1,0,0,1,2,"N",2,25,5,2,139
+"Valliammah Thambiaya",6,310,2,7,"N",0,"Lose","Y","Shukra Raj Gurung",391,-81,0,1,1,1,1,2,"N",8,47,6,0,0
+"Khumraj Thapa",6,303,5,8,"N",1,"Win","N","S Shanthikumar",293,10,1,0,1,0,0,3,"",NA,NA,5,0,0
+"Lee Chee Meng",7,319,2,1,"N",0,"Lose","N","Shukra Raj Gurung",410,-91,0,0,1,1,1,1,"",NA,NA,4,0,0
+"Shukra Raj Gurung",7,410,1,2,"N",1,"Win","Y","Lee Chee Meng",319,91,2,1,0,0,0,3,"N",11,59,6,0,0
+"Nicholas Lee",7,269,4,3,"N",0,"Lose","N","Mohammed Ameen",443,-174,0,1,0,0,1,0,"N",9,22,2,0,0
+"Mohammed Ameen",7,443,3,4,"N",1,"Win","Y","Nicholas Lee",269,174,2,0,1,1,0,4,"N",9,51,8,2,161
+"S Shanthikumar",7,412,6,5,"N",1,"Win","N","Shahrul Kamal",404,8,2,1,1,1,1,3,"",NA,NA,9,0,0
+"Shahrul Kamal",7,404,5,6,"N",0,"Lose","Y","S Shanthikumar",412,-8,0,0,0,0,0,1,"",NA,NA,1,1,74
+"Valliammah Thambiaya",7,363,8,7,"N",0,"Lose","N","Khumraj Thapa",434,-71,1,1,0,1,0,1,"N",7,43,4,0,0
+"Khumraj Thapa",7,434,7,8,"N",1,"Win","Y","Valliammah Thambiaya",363,71,1,0,1,0,1,3,"N",9,43,6,2,159
+"Lee Chee Meng",8,360,4,1,"N",0,"Lose","N","Mohammed Ameen",431,-71,1,0,0,0,1,2,"Y",0,38,4,1,73
+"Shukra Raj Gurung",8,356,8,2,"N",1,"Win","Y","Khumraj Thapa",354,2,0,0,0,1,0,2,"N",6,51,3,1,69
+"Nicholas Lee",8,396,6,3,"N",1,"Win","N","Shahrul Kamal",320,76,2,0,1,1,1,2,"N",3,31,7,1,93
+"Mohammed Ameen",8,431,1,4,"N",1,"Win","Y","Lee Chee Meng",360,71,1,1,1,1,0,2,"N",3,8,6,2,159
+"S Shanthikumar",8,431,7,5,"N",1,"Win","N","Valliammah Thambiaya",418,13,0,1,1,0,1,3,"",NA,NA,6,0,0
+"Shahrul Kamal",8,320,3,6,"N",0,"Lose","Y","Nicholas Lee",396,-76,0,1,0,0,0,2,"Y",1,6,3,1,72
+"Valliammah Thambiaya",8,418,5,7,"N",0,"Lose","Y","S Shanthikumar",431,-13,2,0,0,1,0,1,"",NA,NA,4,0,0
+"Khumraj Thapa",8,354,2,8,"N",0,"Lose","N","Shukra Raj Gurung",356,-2,2,1,1,0,1,2,"N",2,19,7,0,0
+"Lee Chee Meng",9,372,7,1,"N",0,"Lose","N","Valliammah Thambiaya",402,-30,1,0,1,1,0,2,"",NA,NA,5,1,71
+"Shukra Raj Gurung",9,424,3,2,"N",1,"Win","N","Nicholas Lee",344,80,1,0,1,0,1,2,"N",9,10,5,1,64
+"Nicholas Lee",9,344,2,3,"N",0,"Lose","Y","Shukra Raj Gurung",424,-80,1,1,0,1,0,2,"N",6,0,5,1,67
+"Shahrul Kamal",9,401,8,6,"N",0,"Lose","Y","Khumraj Thapa",454,-53,1,1,1,0,0,2,"N",2,0,5,1,77
+"Valliammah Thambiaya",9,402,1,7,"N",1,"Win","N","Lee Chee Meng",372,30,1,1,0,0,1,2,"",NA,NA,5,0,0
+"Khumraj Thapa",9,454,6,8,"N",1,"Win","N","Shahrul Kamal",401,53,1,0,0,1,1,2,"N",6,1,5,1,84
+"Lee Chee Meng",10,350,3,1,"N",0,"Lose","N","Nicholas Lee",387,-37,1,0,1,1,0,1,"Y",0,38,4,1,78
+"Shukra Raj Gurung",10,422,5,2,"N",1,"Win","N","S Shanthikumar",389,33,1,1,0,1,0,2,"",NA,NA,5,1,72
+"Nicholas Lee",10,387,1,3,"N",1,"Win","Y","Lee Chee Meng",350,37,1,1,0,0,1,3,"N",16,15,6,0,0
+"Mohammed Ameen",10,337,8,4,"N",0,"Lose","N","Khumraj Thapa",386,-49,0,1,1,1,1,4,"N",8,40,8,0,0
+"S Shanthikumar",10,389,2,5,"N",0,"Lose","N","Shukra Raj Gurung",422,-33,1,0,1,0,1,2,"",NA,NA,5,0,0
+"Shahrul Kamal",10,532,7,6,"N",1,"Win","N","Valliammah Thambiaya",364,168,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,3,214
+"Valliammah Thambiaya",10,364,6,7,"N",0,"Lose","Y","Shahrul Kamal",532,-168,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0
+"Khumraj Thapa",10,386,4,8,"N",1,"Win","Y","Mohammed Ameen",337,49,2,0,0,0,0,0,"N",4,30,2,0,0
+"Lee Chee Meng",11,376,5,1,"N",1,"Win","N","S Shanthikumar",352,24,1,0,0,1,1,2,"N",10,0,5,1,68
+"Shukra Raj Gurung",11,399,8,2,"N",1,"Win","N","Khumraj Thapa",293,106,2,0,0,1,0,2,"N",4,41,5,0,0
+"Nicholas Lee",11,365,7,3,"N",0,"Lose","Y","Valliammah Thambiaya",392,-27,1,0,1,0,0,1,"N",17,34,3,0,0
+"Mohammed Ameen",11,313,6,4,"N",0,"Lose","N","Shahrul Kamal",432,-119,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0
+"S Shanthikumar",11,352,1,5,"N",0,"Lose","N","Lee Chee Meng",376,-24,1,1,1,0,0,2,"N",5,0,5,0,0
+"Shahrul Kamal",11,432,4,6,"N",1,"Win","Y","Mohammed Ameen",313,119,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,2,133
+"Valliammah Thambiaya",11,392,3,7,"N",1,"Win","N","Nicholas Lee",365,27,1,1,0,1,1,3,"N",3,29,7,0,0
+"Khumraj Thapa",11,293,2,8,"N",0,"Lose","N","Shukra Raj Gurung",399,-106,0,1,1,0,1,2,"N",8,30,5,1,65
+"Lee Chee Meng",12,340,8,1,"N",0,"Lose","N","Khumraj Thapa",423,-83,1,0,0,0,1,2,"",NA,NA,4,1,64
+"Shukra Raj Gurung",12,320,6,2,"N",0,"Lose","N","Shahrul Kamal",543,-223,0,0,1,0,1,2,"",NA,NA,4,0,0
+"Nicholas Lee",12,424,5,3,"N",1,"Win","N","S Shanthikumar",288,136,1,0,1,1,1,3,"N",11,0,7,1,70
+"Mohammed Ameen",12,418,7,4,"N",1,"Win","N","Valliammah Thambiaya",365,53,1,0,1,1,1,2,"",NA,NA,6,1,80
+"S Shanthikumar",12,288,3,5,"N",0,"Lose","N","Nicholas Lee",424,-136,1,1,0,0,0,1,"N",6,0,3,0,0
+"Shahrul Kamal",12,543,2,6,"N",1,"Win","N","Shukra Raj Gurung",320,223,2,1,0,1,0,2,"",NA,NA,6,3,252
+"Valliammah Thambiaya",12,365,4,7,"N",0,"Lose","Y","Mohammed Ameen",418,-53,1,1,0,0,0,2,"",NA,NA,4,0,0
+"Khumraj Thapa",12,423,1,8,"N",1,"Win","N","Lee Chee Meng",340,83,1,1,1,1,0,2,"",NA,NA,6,1,78
+"Lee Chee Meng",13,368,6,1,"N",0,"Lose","N","Shahrul Kamal",400,-32,0,1,1,0,1,0,"",NA,NA,3,0,0
+"Shukra Raj Gurung",13,454,4,2,"N",1,"Win","Y","Mohammed Ameen",438,16,2,1,0,0,1,3,"N",11,35,7,2,129
+"Nicholas Lee",13,370,8,3,"N",1,"Win","N","Khumraj Thapa",350,20,1,1,0,1,1,1,"N",11,58,5,0,0
+"Mohammed Ameen",13,438,2,4,"N",0,"Lose","N","Shukra Raj Gurung",454,-16,0,0,1,1,0,1,"N",8,49,3,2,145
+"S Shanthikumar",13,359,7,5,"N",0,"Lose","N","Valliammah Thambiaya",432,-73,1,1,0,0,1,2,"",NA,NA,5,0,0
+"Shahrul Kamal",13,400,1,6,"N",1,"Win","N","Lee Chee Meng",368,32,2,0,0,1,0,4,"",NA,NA,7,2,140
+"Valliammah Thambiaya",13,432,5,7,"N",1,"Win","Y","S Shanthikumar",359,73,1,0,1,1,0,2,"",NA,NA,5,0,0
+"Khumraj Thapa",13,350,3,8,"N",0,"Lose","N","Nicholas Lee",370,-20,1,0,1,0,0,3,"N",6,45,5,1,76
+"Lee Chee Meng",14,505,4,1,"N",1,"Win","Y","Mohammed Ameen",394,111,0,1,0,1,0,3,"N",3,29,5,3,197
+"Shukra Raj Gurung",14,424,7,2,"N",1,"Win","Y","Valliammah Thambiaya",323,101,2,0,1,0,0,2,"N",6,45,5,1,69
+"Nicholas Lee",14,396,6,3,"N",0,"Lose","N","Shahrul Kamal",488,-92,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0
+"Mohammed Ameen",14,394,1,4,"N",0,"Lose","N","Lee Chee Meng",505,-111,2,0,1,0,1,1,"N",9,5,5,1,113
+"S Shanthikumar",14,281,8,5,"N",0,"Lose","N","Khumraj Thapa",399,-118,1,0,0,1,1,3,"N",4,0,6,0,0
+"Shahrul Kamal",14,488,3,6,"N",1,"Win","N","Nicholas Lee",396,92,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0
+"Valliammah Thambiaya",14,323,2,7,"N",0,"Lose","N","Shukra Raj Gurung",424,-101,0,1,0,1,1,2,"N",6,0,5,0,0
+"Khumraj Thapa",14,399,5,8,"N",1,"Win","Y","S Shanthikumar",281,118,1,1,1,0,0,1,"N",9,55,4,0,0
+"Lee Chee Meng",15,348,2,1,"N",0,"Lose","Y","Shukra Raj Gurung",362,-14,1,0,0,1,0,2,"N",4,12,4,0,0
+"Shukra Raj Gurung",15,362,1,2,"N",1,"Win","N","Lee Chee Meng",348,14,1,1,1,0,1,2,"N",4,7,6,0,0
+"Nicholas Lee",15,365,4,3,"N",0,"Lose","Y","Mohammed Ameen",379,-14,0,1,1,0,0,2,"N",11,54,4,1,64
+"Mohammed Ameen",15,379,3,4,"N",1,"Win","N","Nicholas Lee",365,14,2,0,0,1,1,2,"N",11,16,6,1,70
+"S Shanthikumar",15,330,6,5,"N",0,"Lose","N","Shahrul Kamal",499,-169,1,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0
+"Shahrul Kamal",15,499,5,6,"N",1,"Win","Y","S Shanthikumar",330,169,1,NA,NA,NA,NA,NA,"",NA,NA,NA,2,173
+"Valliammah Thambiaya",15,457,8,7,"N",1,"Win","Y","Khumraj Thapa",304,153,0,1,1,1,1,0,"",NA,NA,4,0,0
+"Khumraj Thapa",15,304,7,8,"N",0,"Lose","N","Valliammah Thambiaya",457,-153,2,0,0,0,0,4,"",NA,NA,6,0,0
+"Lee Chee Meng",16,385,7,1,"N",0,"Lose","Y","Valliammah Thambiaya",430,-45,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0
+"Shukra Raj Gurung",16,334,5,2,"N",1,"Win","N","S Shanthikumar",274,60,2,0,1,0,0,2,"",NA,NA,5,1,65
+"Nicholas Lee",16,354,6,3,"N",0,"Lose","N","Shahrul Kamal",468,-114,0,0,0,0,0,1,"N",4,0,1,1,70
+"Mohammed Ameen",16,389,8,4,"N",1,"Win","Y","Khumraj Thapa",310,79,1,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0
+"S Shanthikumar",16,274,2,5,"N",0,"Lose","Y","Shukra Raj Gurung",334,-60,0,1,0,1,1,0,"",NA,NA,3,0,0
+"Shahrul Kamal",16,468,3,6,"N",1,"Win","N","Nicholas Lee",354,114,2,1,1,1,1,3,"N",3,0,9,3,257
+"Valliammah Thambiaya",16,430,1,7,"N",1,"Win","N","Lee Chee Meng",385,45,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0
+"Khumraj Thapa",16,310,4,8,"N",0,"Lose","N","Mohammed Ameen",389,-79,1,NA,NA,NA,NA,NA,"",NA,NA,NA,0,0

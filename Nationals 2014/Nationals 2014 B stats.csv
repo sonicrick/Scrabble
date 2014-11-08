@@ -1,0 +1,129 @@
+Round,Player,Blank,J,Q,X,Z,S,Overtime,Minute,Second
+1,Mohammed Ameen,1,1,1,1,0,2,N,3,38
+1,S Shanthikumar,1,0,0,0,1,2,N,0,8
+1,Khumraj Thapa,1,1,1,1,1,1,,,
+1,Shahrul Kamal,1,0,0,0,0,3,,,
+1,Lee Chee Meng,2,1,1,1,1,2,,,
+1,Valliammah Thambiaya,0,0,0,0,0,2,,,
+1,Shukra Raj Gurung,1,1,1,1,0,2,N,3,47
+1,Nicholas Lee,1,0,0,0,1,2,N,11,54
+2,Lee Chee Meng,0,1,0,1,1,2,N,4,39
+2,Nicholas Lee,2,0,1,0,0,2,N,6,36
+2,Khumraj Thapa,1,0,0,1,1,1,N,7,34
+2,Mohammed Ameen,1,1,1,0,0,3,N,3,40
+2,Shukra Raj Gurung,1,0,1,1,1,2,N,11,34
+2,S Shanthikumar,1,1,0,0,0,2,N,8,39
+2,Valliammah Thambiaya,,0,1,1,1,1,,,
+2,Shahrul Kamal,,0,0,0,0,3,,,
+3,Nicholas Lee,2,1,1,0,0,1,N,7,0
+3,Valliammah Thambiaya,0,0,0,1,1,3,N,3,0
+3,Lee Chee Meng,2,1,0,0,1,4,N,0,49
+3,S Shanthikumar,0,0,1,1,0,0,N,0,12
+3,Shukra Raj Gurung,2,1,0,1,1,1,N,13,24
+3,Khumraj Thapa,0,0,1,0,0,3,N,4,54
+3,Mohammed Ameen,0,0,1,0,0,2,N,5,30
+3,Shahrul Kamal,2,1,0,1,1,2,Y,0,14
+4,Nicholas Lee,2,1,0,0,0,2,N,11,9
+4,S Shanthikumar,0,0,1,1,1,2,N,0,45
+4,Mohammed Ameen,2,1,0,1,0,2,,,
+4,Valliammah Thambiaya,0,0,1,0,1,2,,,
+4,Shahrul Kamal,2,1,0,1,0,2,N,10,25
+4,Shukra Raj Gurung,0,0,1,0,1,2,N,4,44
+4,Khumraj Thapa,1,1,0,0,1,2,N,8,33
+4,Lee Chee Meng,1,0,1,1,0,2,N,7,57
+5,Shahrul Kamal,1,0,1,1,1,1,,,
+5,Lee Chee Meng,1,1,0,0,0,3,,,
+5,Valliammah Thambiaya,2,1,1,0,1,4,,,
+5,S Shanthikumar,0,0,0,1,0,0,,,
+5,Shukra Raj Gurung,2,1,0,1,0,2,N,2,27
+5,Mohammed Ameen,0,0,1,0,1,2,N,14,49
+5,Khumraj Thapa,1,1,1,1,1,3,N,5,20
+5,Nicholas Lee,1,0,0,0,0,1,N,11,13
+6,Mohammed Ameen,2,0,0,1,1,3,N,9,50
+6,Lee Chee Meng,0,1,1,0,0,1,N,1,55
+6,Nicholas Lee,1,0,1,1,0,2,N,12,55
+6,Shahrul Kamal,1,1,0,0,1,2,N,2,25
+6,Shukra Raj Gurung,2,0,0,0,0,2,N,8,56
+6,Valliammah Thambiaya,0,1,1,1,1,2,N,8,47
+6,Khumraj Thapa,1,0,1,0,0,3,,,
+6,S Shanthikumar,1,1,0,1,1,1,,,
+7,Shukra Raj Gurung,2,1,0,0,0,3,N,11,59
+7,Lee Chee Meng,0,0,1,1,1,1,,,
+7,Khumraj Thapa,1,0,1,0,1,3,N,9,43
+7,Valliammah Thambiaya,1,1,0,1,0,1,N,7,43
+7,Mohammed Ameen,2,0,1,1,0,4,N,9,51
+7,Nicholas Lee,0,1,0,0,1,0,N,9,22
+7,S Shanthikumar,2,1,1,1,1,3,,,
+7,Shahrul Kamal,0,0,0,0,0,1,,,
+8,Mohammed Ameen,1,1,1,1,0,2,N,3,8
+8,Lee Chee Meng,1,0,0,0,1,2,Y,0,38
+8,S Shanthikumar,0,1,1,0,1,3,,,
+8,Valliammah Thambiaya,2,0,0,1,0,1,,,
+8,Shukra Raj Gurung,0,0,0,1,0,2,N,6,51
+8,Khumraj Thapa,2,1,1,0,1,2,N,2,19
+8,Nicholas Lee,2,0,1,1,1,2,N,3,31
+8,Shahrul Kamal,0,1,0,0,0,2,Y,1,6
+9,Khumraj Thapa,1,0,0,1,1,2,N,6,1
+9,Shahrul Kamal,1,1,1,0,0,2,N,2,0
+9,Valliammah Thambiaya,1,1,0,0,1,2,,,
+9,Lee Chee Meng,1,0,1,1,0,2,,,
+9,Shukra Raj Gurung,1,0,1,0,1,2,N,9,10
+9,Nicholas Lee,1,1,0,1,0,2,N,6,0
+9,S Shanthikumar,,,,,,,,,
+9,Mohammed Ameen,,,,,,,,,
+10,Shukra Raj Gurung,1,1,0,1,0,2,,,
+10,S Shanthikumar,1,0,1,0,1,2,,,
+10,Shahrul Kamal,,,,,,,,,
+10,Valliammah Thambiaya,,,,,,,,,
+10,Nicholas Lee,1,1,0,0,1,3,N,16,15
+10,Lee Chee Meng,1,0,1,1,0,1,Y,0,38
+10,Khumraj Thapa,2,0,0,0,0,0,N,4,30
+10,Mohammed Ameen,0,1,1,1,1,4,N,8,40
+11,Shahrul Kamal,,,,,,,,,
+11,Mohammed Ameen,,,,,,,,,
+11,Valliammah Thambiaya,1,1,0,1,1,3,N,3,29
+11,Nicholas Lee,1,0,1,0,0,1,N,17,34
+11,Lee Chee Meng,1,0,0,1,1,2,N,10,0
+11,S Shanthikumar,1,1,1,0,0,2,N,5,0
+11,Shukra Raj Gurung,2,0,0,1,0,2,N,4,41
+11,Khumraj Thapa,0,1,1,0,1,2,N,8,30
+12,Shahrul Kamal,2,1,0,1,0,2,,,
+12,Shukra Raj Gurung,0,0,1,0,1,2,,,
+12,Khumraj Thapa,1,1,1,1,0,2,,,
+12,Lee Chee Meng,1,0,0,0,1,2,,,
+12,Mohammed Ameen,1,0,1,1,1,2,,,
+12,Valliammah Thambiaya,1,1,0,0,0,2,,,
+12,Nicholas Lee,1,0,1,1,1,3,N,11,0
+12,S Shanthikumar,1,1,0,0,0,1,N,6,0
+13,Valliammah Thambiaya,1,0,1,1,0,2,,,
+13,S Shanthikumar,1,1,0,0,1,2,,,
+13,Nicholas Lee,1,1,0,1,1,1,N,11,58
+13,Khumraj Thapa,1,0,1,0,0,3,N,6,45
+13,Shahrul Kamal,2,0,0,1,0,4,,,
+13,Lee Chee Meng,0,1,1,0,1,0,,,
+13,Shukra Raj Gurung,2,1,0,0,1,3,N,11,35
+13,Mohammed Ameen,0,0,1,1,0,1,N,8,49
+14,Shukra Raj Gurung,2,0,1,0,0,2,N,6,45
+14,Valliammah Thambiaya,0,1,0,1,1,2,N,6,0
+14,Lee Chee Meng,0,1,0,1,0,3,N,3,29
+14,Mohammed Ameen,2,0,1,0,1,1,N,9,5
+14,Khumraj Thapa,1,1,1,0,0,1,N,9,55
+14,S Shanthikumar,1,0,0,1,1,3,N,4,0
+14,Shahrul Kamal,,,,,,,,,
+14,Nicholas Lee,,,,,,,,,
+15,Valliammah Thambiaya,0,1,1,1,1,0,,,
+15,Khumraj Thapa,2,0,0,0,0,4,,,
+15,Mohammed Ameen,2,0,0,1,1,2,N,11,16
+15,Nicholas Lee,0,1,1,0,0,2,N,11,54
+15,Shahrul Kamal,1,,,,,,,,
+15,S Shanthikumar,1,,,,,,,,
+15,Shukra Raj Gurung,1,1,1,0,1,2,N,4,7
+15,Lee Chee Meng,1,0,0,1,0,2,N,4,12
+16,Valliammah Thambiaya,,,,,,,,,
+16,Lee Chee Meng,,,,,,,,,
+16,Shukra Raj Gurung,2,0,1,0,0,2,,,
+16,S Shanthikumar,0,1,0,1,1,0,,,
+16,Mohammed Ameen,1,,,,,,,,
+16,Khumraj Thapa,1,,,,,,,,
+16,Shahrul Kamal,2,1,1,1,1,3,N,3,0
+16,Nicholas Lee,0,0,0,0,0,1,N,4,0

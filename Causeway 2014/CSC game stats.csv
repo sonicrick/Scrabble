@@ -1,0 +1,399 @@
+"player","round","score","opp.no.","player.no.","bye","vp","result","start","opp","opp.score","margin","blank","j","q","x","z","s","overtime","minute","second","power.tiles","bingo.count","bingo.points"
+"Hubert Wee",1,382,19,1,"N",0,"Lose","Y","Tan Jin Chor",536,-154,1,0,0,0,1,1,"N",3,0,3,1,72
+"Marlon Prudencio",1,427,13,2,"N",1,"Win","Y","Vannitha Balasingam",329,98,1,1,1,0,0,4,"N",1,26,7,3,215
+"Wong Zhi Yuan",1,426,12,3,"N",1,"Win","Y","Aaron Chong",398,28,2,0,1,0,1,2,"N",7,36,6,3,219
+"Victor Gwee",1,319,15,4,"N",0,"Lose","Y","William Kang",487,-168,0,0,1,1,1,1,"N",0,21,4,0,0
+"Tony Sim",1,459,14,5,"N",1,"Win","Y","Yeo Kian Hung",399,60,0,0,1,1,1,3,"N",2,23,6,2,176
+"Ricky Purnomo",1,485,17,6,"N",1,"Win","Y","Vinnith Ramamurti",262,223,1,1,0,1,0,2,"N",0,44,5,2,149
+"Victor Chua",1,404,16,7,"N",0,"Lose","Y","Martin Teo",501,-97,0,1,1,0,0,1,"N",3,45,3,1,67
+"Michael Tang",1,316,20,8,"N",0,"Lose","Y","Alex Tan",502,-186,0,0,1,1,0,3,"N",0,57,5,0,0
+"Yong Jian Rong",1,488,11,9,"N",0,"Lose","Y","Nigel Richards",501,-13,2,0,0,0,1,1,"N",0,6,4,3,225
+"Shim Yen Nee",1,483,18,10,"N",1,"Win","Y","Jocelyn Lor",368,115,1,0,1,1,0,3,"N",3,8,6,2,162
+"Nigel Richards",1,501,9,11,"N",1,"Win","N","Yong Jian Rong",488,13,0,1,1,1,0,3,"N",11,26,6,2,131
+"Aaron Chong",1,398,3,12,"N",0,"Lose","N","Wong Zhi Yuan",426,-28,0,1,0,1,0,2,"N",1,13,4,1,91
+"Vannitha Balasingam",1,329,2,13,"N",0,"Lose","N","Marlon Prudencio",427,-98,1,0,0,1,1,0,"Y",2,48,3,1,76
+"Yeo Kian Hung",1,399,5,14,"N",0,"Lose","N","Tony Sim",459,-60,2,1,0,0,0,1,"N",7,18,4,2,139
+"William Kang",1,487,4,15,"N",1,"Win","N","Victor Gwee",319,168,2,1,0,0,0,3,"N",6,40,6,3,225
+"Martin Teo",1,501,7,16,"N",1,"Win","N","Victor Chua",404,97,2,0,0,1,1,3,"N",8,17,7,3,237
+"Vinnith Ramamurti",1,262,6,17,"N",0,"Lose","N","Ricky Purnomo",485,-223,1,0,1,0,1,2,"Y",0,16,5,1,76
+"Jocelyn Lor",1,368,10,18,"N",0,"Lose","N","Shim Yen Nee",483,-115,1,1,0,0,1,1,"N",0,0,4,1,80
+"Tan Jin Chor",1,536,1,19,"N",1,"Win","N","Hubert Wee",382,154,1,1,1,1,0,3,"N",3,0,7,3,235
+"Alex Tan",1,502,8,20,"N",1,"Win","N","Michael Tang",316,186,2,1,0,0,1,1,"N",13,18,5,3,318
+"Hubert Wee",2,504,14,1,"N",1,"Win","N","Yeo Kian Hung",449,55,1,0,1,0,1,2,"N",6,47,5,3,235
+"Marlon Prudencio",2,495,19,2,"N",1,"Win","N","Tan Jin Chor",453,42,1,0,1,0,0,2,"N",1,13,4,2,226
+"Wong Zhi Yuan",2,395,16,3,"N",1,"Win","N","Martin Teo",317,78,2,0,0,1,0,2,"N",2,37,5,3,227
+"Victor Gwee",2,347,11,4,"N",0,"Lose","N","Nigel Richards",426,-79,0,1,0,1,1,3,"N",4,20,6,0,0
+"Tony Sim",2,454,18,5,"N",1,"Win","N","Jocelyn Lor",322,132,1,0,1,0,1,4,"N",1,8,7,2,154
+"Ricky Purnomo",2,269,13,6,"N",0,"Lose","N","Vannitha Balasingam",365,-96,1,0,1,0,1,0,"Y",2,29,3,1,70
+"Victor Chua",2,431,20,7,"N",1,"Win","N","Alex Tan",367,64,2,0,1,1,0,3,"N",5,5,7,3,204
+"Michael Tang",2,415,15,8,"N",0,"Lose","N","William Kang",444,-29,0,1,0,1,1,2,"N",3,7,5,2,152
+"Yong Jian Rong",2,376,12,9,"N",0,"Lose","N","Aaron Chong",396,-20,1,1,0,0,0,3,"N",10,7,5,2,141
+"Shim Yen Nee",2,460,17,10,"N",1,"Win","N","Vinnith Ramamurti",440,20,0,1,1,0,1,1,"N",0,34,4,1,99
+"Nigel Richards",2,426,4,11,"N",1,"Win","Y","Victor Gwee",347,79,2,0,1,0,0,1,"N",8,5,4,2,145
+"Aaron Chong",2,396,9,12,"N",1,"Win","Y","Yong Jian Rong",376,20,1,0,1,1,1,1,"N",2,34,5,1,83
+"Vannitha Balasingam",2,365,6,13,"N",1,"Win","Y","Ricky Purnomo",269,96,1,1,0,1,0,4,"Y",0,47,7,1,75
+"Yeo Kian Hung",2,449,1,14,"N",0,"Lose","Y","Hubert Wee",504,-55,1,1,0,1,0,2,"N",8,50,5,3,227
+"William Kang",2,444,8,15,"N",1,"Win","Y","Michael Tang",415,29,2,0,1,0,0,2,"N",3,15,5,3,217
+"Martin Teo",2,317,3,16,"N",0,"Lose","Y","Wong Zhi Yuan",395,-78,0,1,1,0,1,2,"N",4,4,5,0,0
+"Vinnith Ramamurti",2,440,10,17,"N",0,"Lose","Y","Shim Yen Nee",460,-20,2,0,0,1,0,3,"N",0,40,6,3,235
+"Jocelyn Lor",2,322,5,18,"N",0,"Lose","Y","Tony Sim",454,-132,1,1,0,1,0,0,"N",4,12,3,0,0
+"Tan Jin Chor",2,453,2,19,"N",0,"Lose","Y","Marlon Prudencio",495,-42,1,1,0,1,1,2,"N",12,24,6,2,165
+"Alex Tan",2,367,7,20,"N",0,"Lose","Y","Victor Chua",431,-64,0,1,0,0,1,1,"N",5,39,3,0,0
+"Hubert Wee",3,346,16,1,"N",0,"Lose","Y","Martin Teo",491,-145,1,1,0,1,1,2,"N",4,49,6,1,76
+"Marlon Prudencio",3,483,14,2,"N",1,"Win","Y","Yeo Kian Hung",397,86,1,0,1,0,0,4,"N",5,47,6,3,243
+"Wong Zhi Yuan",3,449,18,3,"N",1,"Win","Y","Jocelyn Lor",416,33,1,1,1,1,1,2,"N",3,11,7,2,153
+"Victor Gwee",3,506,12,4,"N",1,"Win","Y","Aaron Chong",491,15,2,0,0,1,1,1,"N",2,49,5,2,174
+"Tony Sim",3,460,20,5,"N",1,"Win","Y","Alex Tan",348,112,2,1,1,0,0,2,"N",0,8,6,3,221
+"Ricky Purnomo",3,407,11,6,"N",1,"Win","Y","Nigel Richards",381,26,2,1,0,0,1,2,"N",0,8,6,1,75
+"Victor Chua",3,416,19,7,"N",0,"Lose","Y","Tan Jin Chor",430,-14,0,1,0,1,0,1,"N",0,6,3,1,65
+"Michael Tang",3,381,13,8,"N",0,"Lose","Y","Vannitha Balasingam",429,-48,0,0,0,1,1,2,"N",1,30,4,1,80
+"Yong Jian Rong",3,398,17,9,"N",0,"Lose","Y","Vinnith Ramamurti",407,-9,1,0,0,1,0,2,"N",3,3,4,2,139
+"Shim Yen Nee",3,516,15,10,"N",1,"Win","Y","William Kang",375,141,1,0,0,1,0,2,"N",1,7,4,4,282
+"Nigel Richards",3,381,6,11,"N",0,"Lose","N","Ricky Purnomo",407,-26,0,0,1,1,0,2,"N",6,48,4,1,75
+"Aaron Chong",3,491,4,12,"N",0,"Lose","N","Victor Gwee",506,-15,0,1,1,0,0,3,"N",6,40,5,3,203
+"Vannitha Balasingam",3,429,8,13,"N",1,"Win","N","Michael Tang",381,48,2,1,1,0,0,2,"N",0,40,6,3,212
+"Yeo Kian Hung",3,397,2,14,"N",0,"Lose","N","Marlon Prudencio",483,-86,1,1,0,1,1,0,"N",9,18,4,2,164
+"William Kang",3,375,10,15,"N",0,"Lose","N","Shim Yen Nee",516,-141,1,1,1,0,1,2,"N",13,35,6,2,157
+"Martin Teo",3,491,1,16,"N",1,"Win","N","Hubert Wee",346,145,1,0,1,0,0,2,"N",9,55,4,4,273
+"Vinnith Ramamurti",3,407,9,17,"N",1,"Win","N","Yong Jian Rong",398,9,1,1,1,0,1,2,"N",4,53,6,2,156
+"Jocelyn Lor",3,416,3,18,"N",0,"Lose","N","Wong Zhi Yuan",449,-33,1,0,0,0,0,2,"N",0,44,3,2,168
+"Tan Jin Chor",3,430,7,19,"N",1,"Win","N","Victor Chua",416,14,2,0,1,0,1,3,"N",3,9,7,3,227
+"Alex Tan",3,348,5,20,"N",0,"Lose","N","Tony Sim",460,-112,0,0,0,1,1,2,"N",7,54,4,1,80
+"Hubert Wee",4,445,18,1,"N",1,"Win","N","Jocelyn Lor",350,95,1,1,1,0,1,3,"N",6,59,7,3,238
+"Marlon Prudencio",4,429,16,2,"N",1,"Win","N","Martin Teo",393,36,1,1,1,0,1,2,"N",4,3,6,2,165
+"Wong Zhi Yuan",4,523,20,3,"N",1,"Win","N","Alex Tan",360,163,1,0,1,1,1,4,"N",7,0,8,4,326
+"Victor Gwee",4,367,19,4,"N",0,"Lose","N","Tan Jin Chor",421,-54,1,1,1,1,0,1,"N",1,15,5,1,63
+"Tony Sim",4,482,17,5,"N",1,"Win","N","Vinnith Ramamurti",437,45,2,0,0,1,1,4,"N",2,6,8,3,251
+"Ricky Purnomo",4,370,12,6,"N",0,"Lose","N","Aaron Chong",532,-162,0,0,0,0,1,2,"Y",0,56,3,1,84
+"Victor Chua",4,339,15,7,"N",0,"Lose","N","William Kang",439,-100,1,1,1,0,1,3,"N",1,2,7,2,129
+"Michael Tang",4,364,11,8,"N",0,"Lose","N","Nigel Richards",568,-204,0,0,1,0,1,1,"N",2,54,3,1,70
+"Yong Jian Rong",4,369,14,9,"N",0,"Lose","N","Yeo Kian Hung",384,-15,1,0,1,0,0,3,"N",7,11,5,1,61
+"Shim Yen Nee",4,343,13,10,"N",0,"Lose","N","Vannitha Balasingam",456,-113,1,1,0,1,1,1,"N",0,57,5,1,74
+"Nigel Richards",4,568,8,11,"N",1,"Win","Y","Michael Tang",364,204,2,1,0,1,0,3,"N",7,49,7,3,308
+"Aaron Chong",4,532,6,12,"N",1,"Win","Y","Ricky Purnomo",370,162,2,1,1,1,0,2,"N",7,9,7,3,240
+"Vannitha Balasingam",4,456,10,13,"N",1,"Win","Y","Shim Yen Nee",343,113,1,0,1,0,0,3,"N",1,8,5,3,219
+"Yeo Kian Hung",4,384,9,14,"N",1,"Win","Y","Yong Jian Rong",369,15,1,1,0,1,1,1,"N",10,51,5,2,147
+"William Kang",4,439,7,15,"N",1,"Win","Y","Victor Chua",339,100,1,0,0,1,0,1,"N",9,26,3,1,70
+"Martin Teo",4,393,2,16,"N",0,"Lose","Y","Marlon Prudencio",429,-36,1,0,0,1,0,2,"N",4,27,4,2,125
+"Vinnith Ramamurti",4,437,5,17,"N",0,"Lose","Y","Tony Sim",482,-45,0,1,1,0,0,0,"N",9,55,2,2,150
+"Jocelyn Lor",4,350,1,18,"N",0,"Lose","Y","Hubert Wee",445,-95,1,0,0,1,0,1,"N",6,15,3,1,69
+"Tan Jin Chor",4,421,4,19,"N",1,"Win","Y","Victor Gwee",367,54,1,0,0,0,1,3,"N",3,57,5,2,156
+"Alex Tan",4,360,3,20,"N",0,"Lose","Y","Wong Zhi Yuan",523,-163,1,1,0,0,0,0,"N",2,39,2,1,86
+"Hubert Wee",5,413,20,1,"N",1,"Win","Y","Alex Tan",406,7,0,1,0,1,0,2,"N",6,32,4,1,72
+"Marlon Prudencio",5,438,18,2,"N",1,"Win","Y","Jocelyn Lor",365,73,2,0,1,0,1,2,"N",3,39,6,2,146
+"Wong Zhi Yuan",5,414,17,3,"N",0,"Lose","Y","Vinnith Ramamurti",510,-96,2,1,1,1,0,2,"N",2,18,7,2,146
+"Victor Gwee",5,387,16,4,"N",0,"Lose","Y","Martin Teo",462,-75,1,1,1,0,0,1,"N",2,46,4,1,80
+"Tony Sim",5,399,19,5,"N",0,"Lose","Y","Tan Jin Chor",429,-30,1,1,0,1,0,2,"N",0,21,5,1,77
+"Ricky Purnomo",5,347,14,6,"N",0,"Lose","Y","Yeo Kian Hung",449,-102,0,1,1,0,1,2,"Y",0,2,5,1,75
+"Victor Chua",5,339,13,7,"N",0,"Lose","Y","Vannitha Balasingam",455,-116,0,0,1,0,0,2,"N",9,33,3,0,0
+"Michael Tang",5,478,12,8,"N",1,"Win","Y","Aaron Chong",429,49,1,1,1,0,0,4,"N",1,34,7,3,231
+"Yong Jian Rong",5,458,15,9,"N",1,"Win","Y","William Kang",342,116,1,1,0,0,1,3,"N",8,32,6,2,144
+"Shim Yen Nee",5,287,11,10,"N",0,"Lose","Y","Nigel Richards",508,-221,1,0,0,1,0,0,"N",0,44,2,1,72
+"Nigel Richards",5,508,10,11,"N",1,"Win","N","Shim Yen Nee",287,221,1,1,1,0,1,4,"N",6,42,8,3,236
+"Aaron Chong",5,429,8,12,"N",0,"Lose","N","Michael Tang",478,-49,1,0,0,1,1,0,"N",5,48,3,2,143
+"Vannitha Balasingam",5,455,7,13,"N",1,"Win","N","Victor Chua",339,116,2,1,0,1,1,2,"N",0,22,7,3,225
+"Yeo Kian Hung",5,449,6,14,"N",1,"Win","N","Ricky Purnomo",347,102,2,0,0,1,0,2,"N",14,3,5,2,163
+"William Kang",5,342,9,15,"N",0,"Lose","N","Yong Jian Rong",458,-116,1,0,1,1,0,1,"N",1,30,4,2,151
+"Martin Teo",5,462,4,16,"N",1,"Win","N","Victor Gwee",387,75,1,0,0,1,1,3,"N",12,19,6,2,148
+"Vinnith Ramamurti",5,510,3,17,"N",1,"Win","N","Wong Zhi Yuan",414,96,0,0,0,0,1,2,"N",10,17,3,4,291
+"Jocelyn Lor",5,365,2,18,"N",0,"Lose","N","Marlon Prudencio",438,-73,0,1,0,1,0,2,"N",6,34,4,0,0
+"Tan Jin Chor",5,429,5,19,"N",1,"Win","N","Tony Sim",399,30,1,0,1,0,1,2,"N",3,36,5,1,83
+"Alex Tan",5,406,1,20,"N",0,"Lose","N","Hubert Wee",413,-7,2,0,1,0,1,2,"N",4,5,6,2,152
+"Hubert Wee",6,445,17,1,"N",1,"Win","N","Vinnith Ramamurti",398,47,2,0,0,0,0,3,"N",9,13,5,3,243
+"Marlon Prudencio",6,378,20,2,"N",1,"Win","N","Alex Tan",357,21,2,1,0,1,1,2,"N",0,26,7,1,72
+"Wong Zhi Yuan",6,285,15,3,"N",0,"Lose","N","William Kang",531,-246,0,1,0,0,0,2,"N",3,27,3,0,0
+"Victor Gwee",6,371,18,4,"N",0,"Lose","N","Jocelyn Lor",375,-4,1,1,1,1,1,2,"N",1,58,7,1,76
+"Tony Sim",6,332,13,5,"N",0,"Lose","N","Vannitha Balasingam",442,-110,0,0,1,0,1,2,"N",0,46,4,0,0
+"Ricky Purnomo",6,508,19,6,"N",1,"Win","N","Tan Jin Chor",392,116,1,1,0,0,1,3,"N",3,11,6,2,221
+"Victor Chua",6,377,11,7,"N",0,"Lose","N","Nigel Richards",544,-167,0,1,0,0,0,1,"N",7,31,2,1,72
+"Michael Tang",6,359,14,8,"N",0,"Lose","N","Yeo Kian Hung",414,-55,1,0,0,0,1,2,"N",10,8,4,1,83
+"Yong Jian Rong",6,447,16,9,"N",1,"Win","N","Martin Teo",394,53,2,1,1,0,0,2,"N",11,12,6,2,158
+"Shim Yen Nee",6,416,12,10,"N",0,"Lose","N","Aaron Chong",438,-22,0,1,1,0,1,3,"N",7,47,6,2,145
+"Nigel Richards",6,544,7,11,"N",1,"Win","Y","Victor Chua",377,167,2,0,1,1,1,3,"N",7,9,8,3,261
+"Aaron Chong",6,438,10,12,"N",1,"Win","Y","Shim Yen Nee",416,22,2,0,0,1,0,1,"N",7,42,4,2,157
+"Vannitha Balasingam",6,442,5,13,"N",1,"Win","Y","Tony Sim",332,110,2,1,0,1,0,2,"Y",0,43,6,0,0
+"Yeo Kian Hung",6,414,8,14,"N",1,"Win","Y","Michael Tang",359,55,1,1,1,1,0,2,"N",8,23,6,2,158
+"William Kang",6,531,3,15,"N",1,"Win","Y","Wong Zhi Yuan",285,246,2,0,1,1,1,2,"N",8,1,7,2,164
+"Martin Teo",6,394,9,16,"N",0,"Lose","Y","Yong Jian Rong",447,-53,0,0,0,1,1,2,"N",6,28,4,2,150
+"Vinnith Ramamurti",6,398,1,17,"N",0,"Lose","Y","Hubert Wee",445,-47,0,1,1,1,1,1,"N",4,9,5,0,0
+"Jocelyn Lor",6,375,4,18,"N",1,"Win","Y","Victor Gwee",371,4,1,0,0,0,0,2,"N",0,23,3,1,68
+"Tan Jin Chor",6,392,6,19,"N",0,"Lose","Y","Ricky Purnomo",508,-116,1,0,1,1,0,1,"N",1,23,4,1,86
+"Alex Tan",6,357,2,20,"N",0,"Lose","Y","Marlon Prudencio",378,-21,0,0,1,0,0,2,"N",7,6,3,0,0
+"Hubert Wee",7,382,15,1,"N",0,"Lose","Y","William Kang",426,-44,1,0,1,1,0,2,"N",10,11,5,1,67
+"Marlon Prudencio",7,397,17,2,"N",1,"Win","Y","Vinnith Ramamurti",344,53,1,1,1,1,0,3,"N",3,45,7,1,69
+"Wong Zhi Yuan",7,428,19,3,"N",1,"Win","Y","Tan Jin Chor",417,11,1,1,1,0,0,1,"N",13,45,4,2,148
+"Victor Gwee",7,404,20,4,"N",0,"Lose","Y","Alex Tan",530,-126,1,1,1,1,0,3,"N",10,16,7,1,60
+"Tony Sim",7,362,11,5,"N",0,"Lose","Y","Nigel Richards",443,-81,0,0,0,1,0,2,"N",0,30,3,1,64
+"Ricky Purnomo",7,420,18,6,"N",1,"Win","Y","Jocelyn Lor",301,119,2,0,0,0,0,2,"N",3,18,4,2,162
+"Victor Chua",7,432,12,7,"N",1,"Win","Y","Aaron Chong",368,64,0,1,1,0,0,3,"N",1,59,5,1,80
+"Michael Tang",7,379,16,8,"N",0,"Lose","Y","Martin Teo",398,-19,0,0,1,0,1,3,"N",7,45,5,1,66
+"Yong Jian Rong",7,469,13,9,"N",1,"Win","Y","Vannitha Balasingam",390,79,1,1,0,1,1,2,"N",7,17,6,2,134
+"Shim Yen Nee",7,418,14,10,"N",0,"Lose","Y","Yeo Kian Hung",448,-30,0,0,0,0,0,1,"N",1,29,1,2,160
+"Nigel Richards",7,443,5,11,"N",1,"Win","N","Tony Sim",362,81,2,1,1,0,1,2,"N",11,7,7,1,100
+"Aaron Chong",7,368,7,12,"N",0,"Lose","N","Victor Chua",432,-64,2,0,0,1,1,1,"N",7,37,5,2,146
+"Vannitha Balasingam",7,390,9,13,"N",0,"Lose","N","Yong Jian Rong",469,-79,1,0,1,0,0,2,"N",5,22,4,1,78
+"Yeo Kian Hung",7,448,10,14,"N",1,"Win","N","Shim Yen Nee",418,30,2,1,1,1,1,3,"N",14,54,9,2,151
+"William Kang",7,426,1,15,"N",1,"Win","N","Hubert Wee",382,44,1,1,0,0,1,2,"N",9,59,5,3,204
+"Martin Teo",7,398,8,16,"N",1,"Win","N","Michael Tang",379,19,2,1,0,1,0,1,"N",1,20,5,2,152
+"Vinnith Ramamurti",7,344,2,17,"N",0,"Lose","N","Marlon Prudencio",397,-53,1,0,0,0,1,1,"N",3,35,3,1,81
+"Jocelyn Lor",7,301,6,18,"N",0,"Lose","N","Ricky Purnomo",420,-119,0,1,1,1,1,2,"N",8,30,6,0,0
+"Tan Jin Chor",7,417,3,19,"N",0,"Lose","N","Wong Zhi Yuan",428,-11,1,0,0,1,1,3,"N",2,40,6,2,163
+"Alex Tan",7,530,4,20,"N",1,"Win","N","Victor Gwee",404,126,1,0,0,0,1,1,"N",6,14,3,3,265
+"Hubert Wee",8,401,13,1,"N",1,"Win","N","Vannitha Balasingam",343,58,1,1,0,1,0,2,"",NA,NA,5,1,80
+"Marlon Prudencio",8,356,15,2,"N",0,"Lose","N","William Kang",435,-79,0,1,1,0,0,0,"N",3,51,2,1,68
+"Wong Zhi Yuan",8,358,11,3,"N",0,"Lose","N","Nigel Richards",486,-128,0,1,1,1,1,3,"N",4,29,7,1,66
+"Victor Gwee",8,435,17,4,"N",1,"Win","N","Vinnith Ramamurti",430,5,0,0,1,1,1,2,"N",4,42,5,2,154
+"Tony Sim",8,456,12,5,"N",0,"Lose","N","Aaron Chong",479,-23,0,0,0,0,0,3,"N",0,7,3,3,261
+"Ricky Purnomo",8,402,20,6,"N",0,"Lose","N","Alex Tan",416,-14,0,0,0,1,0,0,"N",0,3,1,0,0
+"Victor Chua",8,410,14,7,"N",0,"Lose","N","Yeo Kian Hung",503,-93,1,0,1,1,1,0,"N",6,4,4,2,132
+"Michael Tang",8,493,19,8,"N",1,"Win","N","Tan Jin Chor",317,176,2,0,0,1,1,3,"N",10,18,7,2,148
+"Yong Jian Rong",8,315,18,9,"N",0,"Lose","N","Jocelyn Lor",347,-32,1,0,1,1,0,0,"N",10,56,3,0,0
+"Shim Yen Nee",8,305,16,10,"N",0,"Lose","N","Martin Teo",430,-125,0,1,0,1,1,1,"N",0,46,4,1,65
+"Nigel Richards",8,486,3,11,"N",1,"Win","Y","Wong Zhi Yuan",358,128,2,0,0,0,0,1,"N",5,26,3,3,206
+"Aaron Chong",8,479,5,12,"N",1,"Win","Y","Tony Sim",456,23,2,1,1,1,1,1,"N",9,14,7,2,167
+"Vannitha Balasingam",8,343,1,13,"N",0,"Lose","Y","Hubert Wee",401,-58,1,0,1,0,1,2,"",NA,NA,5,1,64
+"Yeo Kian Hung",8,503,7,14,"N",1,"Win","Y","Victor Chua",410,93,1,1,0,0,0,4,"N",16,29,6,4,328
+"William Kang",8,435,2,15,"N",1,"Win","Y","Marlon Prudencio",356,79,2,0,0,1,1,4,"N",8,21,8,2,143
+"Martin Teo",8,430,10,16,"N",1,"Win","Y","Shim Yen Nee",305,125,2,0,1,0,0,3,"N",10,25,6,3,227
+"Vinnith Ramamurti",8,430,4,17,"N",0,"Lose","Y","Victor Gwee",435,-5,2,1,0,0,0,2,"N",9,39,5,3,217
+"Jocelyn Lor",8,347,9,18,"N",1,"Win","Y","Yong Jian Rong",315,32,1,1,0,0,1,4,"N",7,18,7,1,81
+"Tan Jin Chor",8,317,8,19,"N",0,"Lose","Y","Michael Tang",493,-176,0,1,1,0,0,1,"N",8,7,3,1,67
+"Alex Tan",8,416,6,20,"N",1,"Win","Y","Ricky Purnomo",402,14,2,1,1,0,1,4,"N",5,0,9,2,143
+"Hubert Wee",9,455,12,1,"N",1,"Win","Y","Aaron Chong",304,151,2,0,1,1,0,3,"N",3,31,7,3,249
+"Marlon Prudencio",9,315,11,2,"N",0,"Lose","Y","Nigel Richards",513,-198,0,1,1,0,1,0,"N",7,7,3,0,0
+"Wong Zhi Yuan",9,467,14,3,"N",1,"Win","Y","Yeo Kian Hung",413,54,2,0,1,0,1,1,"N",5,45,5,2,212
+"Victor Gwee",9,367,13,4,"N",0,"Lose","Y","Vannitha Balasingam",451,-84,1,1,0,0,1,2,"N",4,9,5,1,61
+"Tony Sim",9,429,16,5,"N",1,"Win","Y","Martin Teo",405,24,2,1,1,1,0,0,"N",1,13,5,1,91
+"Ricky Purnomo",9,435,15,6,"N",1,"Win","Y","William Kang",367,68,2,1,0,0,0,1,"N",5,38,4,2,169
+"Victor Chua",9,460,18,7,"N",1,"Win","Y","Jocelyn Lor",320,140,2,1,0,1,1,3,"N",11,10,8,3,228
+"Michael Tang",9,433,17,8,"N",1,"Win","Y","Vinnith Ramamurti",394,39,1,0,0,0,1,1,"N",1,37,3,1,72
+"Yong Jian Rong",9,379,20,9,"N",0,"Lose","Y","Alex Tan",391,-12,0,0,0,0,1,1,"N",11,33,2,1,80
+"Shim Yen Nee",9,345,19,10,"N",0,"Lose","Y","Tan Jin Chor",358,-13,0,0,1,0,0,2,"N",1,50,3,0,0
+"Nigel Richards",9,513,2,11,"N",1,"Win","N","Marlon Prudencio",315,198,2,0,0,1,0,4,"N",11,3,7,3,218
+"Aaron Chong",9,304,1,12,"N",0,"Lose","N","Hubert Wee",455,-151,0,1,0,0,1,1,"N",5,34,3,0,0
+"Vannitha Balasingam",9,451,4,13,"N",1,"Win","N","Victor Gwee",367,84,1,0,1,1,0,2,"N",0,41,5,2,171
+"Yeo Kian Hung",9,413,3,14,"N",0,"Lose","N","Wong Zhi Yuan",467,-54,0,1,0,1,0,3,"N",14,40,5,2,150
+"William Kang",9,367,6,15,"N",0,"Lose","N","Ricky Purnomo",435,-68,0,0,1,1,1,3,"N",13,54,6,0,0
+"Martin Teo",9,405,5,16,"N",0,"Lose","N","Tony Sim",429,-24,0,0,0,0,1,4,"N",7,24,5,2,136
+"Vinnith Ramamurti",9,394,8,17,"N",0,"Lose","N","Michael Tang",433,-39,1,1,1,1,0,3,"N",0,7,7,3,229
+"Jocelyn Lor",9,320,7,18,"N",0,"Lose","N","Victor Chua",460,-140,0,0,1,0,0,1,"N",7,45,2,0,0
+"Tan Jin Chor",9,358,10,19,"N",1,"Win","N","Shim Yen Nee",345,13,2,1,0,1,1,2,"N",2,0,7,0,0
+"Alex Tan",9,391,9,20,"N",1,"Win","N","Yong Jian Rong",379,12,2,1,1,1,0,3,"Y",2,4,8,2,160
+"Hubert Wee",10,392,11,1,"N",0,"Lose","N","Nigel Richards",414,-22,1,0,1,1,0,2,"N",0,6,5,2,122
+"Marlon Prudencio",10,362,12,2,"N",0,"Lose","N","Aaron Chong",481,-119,0,1,1,0,0,1,"N",2,25,3,0,0
+"Wong Zhi Yuan",10,502,13,3,"N",1,"Win","N","Vannitha Balasingam",383,119,0,1,1,1,0,3,"N",11,42,6,2,156
+"Victor Gwee",10,330,14,4,"N",0,"Lose","N","Yeo Kian Hung",542,-212,0,0,1,1,0,3,"N",5,19,5,0,0
+"Tony Sim",10,371,15,5,"N",0,"Lose","N","William Kang",502,-131,1,0,0,0,0,2,"Y",4,15,3,2,144
+"Ricky Purnomo",10,432,16,6,"N",1,"Win","N","Martin Teo",395,37,2,1,1,0,0,1,"N",0,2,5,2,167
+"Victor Chua",10,453,17,7,"N",1,"Win","N","Vinnith Ramamurti",387,66,2,1,1,1,0,4,"N",5,46,9,3,236
+"Michael Tang",10,325,18,8,"N",0,"Lose","N","Jocelyn Lor",385,-60,1,0,0,1,1,3,"N",2,24,6,0,0
+"Yong Jian Rong",10,449,19,9,"N",1,"Win","N","Tan Jin Chor",407,42,2,0,1,1,1,2,"N",15,9,7,2,148
+"Shim Yen Nee",10,388,20,10,"N",0,"Lose","N","Alex Tan",448,-60,1,1,1,0,0,2,"N",7,17,5,1,70
+"Nigel Richards",10,414,1,11,"N",1,"Win","Y","Hubert Wee",392,22,1,1,0,0,1,2,"N",2,16,5,1,68
+"Aaron Chong",10,481,2,12,"N",1,"Win","Y","Marlon Prudencio",362,119,2,0,0,1,1,3,"N",6,10,7,3,221
+"Vannitha Balasingam",10,383,3,13,"N",0,"Lose","Y","Wong Zhi Yuan",502,-119,2,0,0,0,1,1,"Y",1,25,4,2,133
+"Yeo Kian Hung",10,542,4,14,"N",1,"Win","Y","Victor Gwee",330,212,2,1,0,0,1,1,"N",10,26,5,4,310
+"William Kang",10,502,5,15,"N",1,"Win","Y","Tony Sim",371,131,1,1,1,1,1,2,"N",13,58,7,2,172
+"Martin Teo",10,395,6,16,"N",0,"Lose","Y","Ricky Purnomo",432,-37,0,0,0,1,1,3,"N",9,22,5,2,140
+"Vinnith Ramamurti",10,387,7,17,"N",0,"Lose","Y","Victor Chua",453,-66,0,0,0,0,1,0,"N",9,4,1,2,127
+"Jocelyn Lor",10,385,8,18,"N",1,"Win","Y","Michael Tang",325,60,1,1,1,0,0,1,"N",13,1,4,2,131
+"Tan Jin Chor",10,407,9,19,"N",0,"Lose","Y","Yong Jian Rong",449,-42,0,1,0,0,0,2,"N",1,47,3,2,177
+"Alex Tan",10,448,10,20,"N",1,"Win","Y","Shim Yen Nee",388,60,1,0,0,1,1,2,"N",7,48,5,3,223
+"Hubert Wee",11,481,19,1,"N",1,"Win","N","Tan Jin Chor",391,90,2,0,0,0,0,2,"",NA,NA,4,3,224
+"Marlon Prudencio",11,513,13,2,"N",1,"Win","N","Vannitha Balasingam",387,126,2,1,1,1,1,1,"N",13,43,7,3,287
+"Wong Zhi Yuan",11,474,12,3,"N",1,"Win","N","Aaron Chong",331,143,2,0,1,0,0,3,"N",12,22,6,3,211
+"Victor Gwee",11,364,15,4,"N",0,"Lose","N","William Kang",382,-18,0,1,0,1,0,3,"N",5,46,5,1,61
+"Tony Sim",11,458,14,5,"N",1,"Win","N","Yeo Kian Hung",422,36,2,0,0,1,0,3,"N",2,3,6,2,168
+"Ricky Purnomo",11,366,17,6,"N",0,"Lose","N","Vinnith Ramamurti",449,-83,1,1,0,1,1,2,"Y",2,36,6,0,0
+"Victor Chua",11,396,16,7,"N",1,"Win","N","Martin Teo",381,15,2,0,0,1,0,2,"N",0,3,5,2,163
+"Michael Tang",11,475,20,8,"N",1,"Win","N","Alex Tan",341,134,1,0,1,1,1,2,"N",1,58,6,2,156
+"Yong Jian Rong",11,343,11,9,"N",0,"Lose","N","Nigel Richards",515,-172,0,1,0,1,1,3,"N",5,56,6,1,77
+"Nigel Richards",11,515,9,11,"N",1,"Win","Y","Yong Jian Rong",343,172,2,0,1,0,0,1,"N",10,20,4,4,292
+"Aaron Chong",11,331,3,12,"N",0,"Lose","Y","Wong Zhi Yuan",474,-143,0,1,0,1,1,1,"N",3,12,4,1,63
+"Vannitha Balasingam",11,387,2,13,"N",0,"Lose","Y","Marlon Prudencio",513,-126,0,0,0,0,0,3,"Y",1,24,3,1,87
+"Yeo Kian Hung",11,422,5,14,"N",0,"Lose","Y","Tony Sim",458,-36,0,1,1,0,1,1,"N",7,48,4,1,77
+"William Kang",11,382,4,15,"N",1,"Win","Y","Victor Gwee",364,18,2,0,1,0,1,1,"N",4,34,5,0,0
+"Martin Teo",11,381,7,16,"N",0,"Lose","Y","Victor Chua",396,-15,0,1,1,0,1,2,"N",0,4,5,1,73
+"Vinnith Ramamurti",11,449,6,17,"N",1,"Win","Y","Ricky Purnomo",366,83,1,0,1,0,0,2,"N",10,4,4,0,0
+"Tan Jin Chor",11,391,1,19,"N",0,"Lose","Y","Hubert Wee",481,-90,0,1,1,1,1,2,"",NA,NA,6,0,0
+"Alex Tan",11,341,8,20,"N",0,"Lose","Y","Michael Tang",475,-134,1,1,0,0,0,2,"N",7,37,4,1,68
+"Hubert Wee",12,426,14,1,"N",0.5,"Draw","Y","Yeo Kian Hung",426,0,1,1,0,0,1,3,"N",0,45,6,2,182
+"Marlon Prudencio",12,514,19,2,"N",1,"Win","Y","Tan Jin Chor",380,134,2,0,1,0,0,2,"N",8,43,5,3,234
+"Wong Zhi Yuan",12,406,16,3,"N",0,"Lose","Y","Martin Teo",450,-44,0,0,0,0,0,2,"N",9,6,2,2,149
+"Victor Gwee",12,401,11,4,"N",0,"Lose","Y","Nigel Richards",439,-38,1,1,1,1,0,1,"N",1,34,5,1,58
+"Tony Sim",12,429,18,5,"N",0,"Lose","Y","Jocelyn Lor",471,-42,0,1,0,0,0,2,"N",0,39,3,2,159
+"Ricky Purnomo",12,266,13,6,"N",0,"Lose","Y","Vannitha Balasingam",526,-260,0,1,0,0,0,1,"Y",0,56,2,0,0
+"Victor Chua",12,476,20,7,"N",1,"Win","Y","Alex Tan",351,125,1,0,1,1,1,3,"N",5,13,7,2,143
+"Michael Tang",12,461,15,8,"N",1,"Win","Y","William Kang",351,110,1,1,0,1,1,2,"N",5,16,6,1,68
+"Yong Jian Rong",12,377,12,9,"N",0,"Lose","Y","Aaron Chong",468,-91,0,0,0,0,1,4,"N",9,15,5,2,146
+"Shim Yen Nee",12,426,17,10,"N",0,"Lose","Y","Vinnith Ramamurti",487,-61,0,0,0,0,1,2,"N",2,58,3,2,195
+"Nigel Richards",12,439,4,11,"N",1,"Win","N","Victor Gwee",401,38,1,0,0,0,1,3,"N",11,30,5,2,140
+"Aaron Chong",12,468,9,12,"N",1,"Win","N","Yong Jian Rong",377,91,2,1,1,1,0,0,"N",8,32,5,2,164
+"Vannitha Balasingam",12,526,6,13,"N",1,"Win","N","Ricky Purnomo",266,260,2,0,1,1,1,3,"N",2,1,8,3,258
+"Yeo Kian Hung",12,426,1,14,"N",0.5,"Draw","N","Hubert Wee",426,0,1,0,1,1,0,1,"N",5,59,4,1,72
+"William Kang",12,351,8,15,"N",0,"Lose","N","Michael Tang",461,-110,1,0,1,0,0,2,"N",4,57,4,1,68
+"Martin Teo",12,450,3,16,"N",1,"Win","N","Wong Zhi Yuan",406,44,2,1,1,1,1,2,"N",1,34,8,2,151
+"Vinnith Ramamurti",12,487,10,17,"N",1,"Win","N","Shim Yen Nee",426,61,2,1,1,1,0,2,"N",12,49,7,2,158
+"Jocelyn Lor",12,471,5,18,"N",1,"Win","N","Tony Sim",429,42,2,0,1,1,1,2,"N",7,4,7,2,129
+"Tan Jin Chor",12,380,2,19,"N",0,"Lose","N","Marlon Prudencio",514,-134,0,1,0,1,1,2,"N",5,36,5,0,0
+"Alex Tan",12,351,7,20,"N",0,"Lose","N","Victor Chua",476,-125,1,1,0,0,0,1,"N",8,2,3,2,134
+"Hubert Wee",13,501,16,1,"N",1,"Win","N","Martin Teo",380,121,1,1,1,0,0,2,"N",9,32,5,3,253
+"Marlon Prudencio",13,511,14,2,"N",1,"Win","N","Yeo Kian Hung",399,112,1,1,1,1,0,3,"N",10,0,7,3,252
+"Wong Zhi Yuan",13,401,18,3,"N",0,"Lose","N","Jocelyn Lor",473,-72,1,1,1,0,1,4,"N",14,31,8,2,142
+"Victor Gwee",13,437,12,4,"N",1,"Win","N","Aaron Chong",427,10,2,1,0,1,1,2,"N",2,26,7,2,204
+"Tony Sim",13,450,20,5,"N",1,"Win","N","Alex Tan",449,1,0,1,0,1,1,2,"N",1,28,5,2,154
+"Ricky Purnomo",13,362,11,6,"N",0,"Lose","N","Nigel Richards",451,-89,0,1,0,1,1,1,"Y",1,7,4,1,87
+"Victor Chua",13,465,19,7,"N",1,"Win","N","Tan Jin Chor",438,27,2,0,0,0,0,1,"N",3,52,3,2,170
+"Michael Tang",13,434,13,8,"N",1,"Win","N","Vannitha Balasingam",424,10,1,0,0,1,1,3,"N",1,50,6,3,222
+"Yong Jian Rong",13,423,17,9,"N",1,"Win","N","Vinnith Ramamurti",422,1,1,1,1,1,0,1,"N",2,42,5,3,215
+"Shim Yen Nee",13,343,15,10,"N",0,"Lose","N","William Kang",414,-71,0,1,1,1,0,1,"N",11,42,4,0,0
+"Nigel Richards",13,451,6,11,"N",1,"Win","Y","Ricky Purnomo",362,89,2,0,1,0,0,3,"N",11,20,6,3,200
+"Aaron Chong",13,427,4,12,"N",0,"Lose","Y","Victor Gwee",437,-10,0,0,1,0,0,2,"N",0,31,3,2,178
+"Vannitha Balasingam",13,424,8,13,"N",0,"Lose","Y","Michael Tang",434,-10,1,1,1,0,0,0,"N",0,14,3,2,156
+"Yeo Kian Hung",13,399,2,14,"N",0,"Lose","Y","Marlon Prudencio",511,-112,1,0,0,0,1,1,"N",15,0,3,1,76
+"William Kang",13,414,10,15,"N",1,"Win","Y","Shim Yen Nee",343,71,2,0,0,0,1,3,"N",4,29,6,2,140
+"Martin Teo",13,380,1,16,"N",0,"Lose","Y","Hubert Wee",501,-121,1,0,0,1,1,2,"N",9,8,5,2,153
+"Vinnith Ramamurti",13,422,9,17,"N",0,"Lose","Y","Yong Jian Rong",423,-1,1,0,0,0,1,3,"N",0,4,5,2,148
+"Jocelyn Lor",13,473,3,18,"N",1,"Win","Y","Wong Zhi Yuan",401,72,1,0,0,1,0,0,"N",3,2,2,3,233
+"Tan Jin Chor",13,438,7,19,"N",0,"Lose","Y","Victor Chua",465,-27,0,1,1,1,1,3,"N",3,52,7,2,146
+"Alex Tan",13,449,5,20,"N",0,"Lose","Y","Tony Sim",450,-1,2,0,1,0,0,2,"N",0,17,5,3,228
+"Hubert Wee",14,413,18,1,"N",1,"Win","Y","Jocelyn Lor",401,12,1,1,0,0,0,1,"N",2,34,3,1,65
+"Marlon Prudencio",14,641,16,2,"N",1,"Win","Y","Martin Teo",324,317,1,1,1,1,0,1,"N",5,28,5,4,357
+"Wong Zhi Yuan",14,495,20,3,"N",1,"Win","Y","Alex Tan",249,246,1,0,0,1,0,3,"N",17,45,5,2,156
+"Victor Gwee",14,408,19,4,"N",1,"Win","Y","Tan Jin Chor",367,41,1,1,0,0,0,2,"N",5,27,4,1,82
+"Tony Sim",14,477,17,5,"N",1,"Win","Y","Vinnith Ramamurti",392,85,1,1,0,0,1,2,"N",0,56,5,3,212
+"Ricky Purnomo",14,370,12,6,"N",0,"Lose","Y","Aaron Chong",490,-120,0,0,0,1,1,2,"Y",1,56,4,1,68
+"Victor Chua",14,488,15,7,"N",1,"Win","Y","William Kang",448,40,1,0,1,0,0,4,"N",4,30,6,4,301
+"Michael Tang",14,426,11,8,"N",0,"Lose","Y","Nigel Richards",541,-115,1,0,0,0,1,1,"N",1,27,3,3,221
+"Yong Jian Rong",14,400,14,9,"N",0,"Lose","Y","Yeo Kian Hung",464,-64,1,0,0,0,0,3,"N",0,49,4,3,225
+"Shim Yen Nee",14,467,13,10,"N",1,"Win","Y","Vannitha Balasingam",441,26,2,0,1,0,1,3,"",NA,NA,7,2,183
+"Nigel Richards",14,541,8,11,"N",1,"Win","N","Michael Tang",426,115,1,1,1,1,0,3,"N",13,46,7,3,273
+"Aaron Chong",14,490,6,12,"N",1,"Win","N","Ricky Purnomo",370,120,2,1,1,0,0,2,"N",10,56,6,4,305
+"Vannitha Balasingam",14,441,10,13,"N",0,"Lose","N","Shim Yen Nee",467,-26,0,1,0,1,0,1,"",NA,NA,3,3,243
+"Yeo Kian Hung",14,464,9,14,"N",1,"Win","N","Yong Jian Rong",400,64,1,1,1,1,1,1,"N",14,18,6,1,99
+"William Kang",14,448,7,15,"N",0,"Lose","N","Victor Chua",488,-40,1,1,0,1,1,0,"N",6,52,4,2,158
+"Martin Teo",14,324,2,16,"N",0,"Lose","N","Marlon Prudencio",641,-317,1,0,0,0,1,3,"N",1,48,5,1,69
+"Vinnith Ramamurti",14,392,5,17,"N",0,"Lose","N","Tony Sim",477,-85,1,0,1,1,0,2,"N",7,21,5,2,150
+"Jocelyn Lor",14,401,1,18,"N",0,"Lose","N","Hubert Wee",413,-12,1,0,1,1,1,3,"N",2,45,7,2,164
+"Tan Jin Chor",14,367,4,19,"N",0,"Lose","N","Victor Gwee",408,-41,1,0,1,1,1,2,"N",2,36,6,1,73
+"Alex Tan",14,249,3,20,"N",0,"Lose","N","Wong Zhi Yuan",495,-246,1,1,1,0,1,1,"Y",6,0,5,1,82
+"Hubert Wee",15,391,20,1,"N",0,"Lose","N","Alex Tan",438,-47,1,0,0,1,0,2,"N",11,42,4,2,135
+"Marlon Prudencio",15,365,18,2,"N",0,"Lose","N","Jocelyn Lor",469,-104,1,1,1,1,0,1,"N",1,47,5,1,60
+"Wong Zhi Yuan",15,458,17,3,"N",1,"Win","N","Vinnith Ramamurti",364,94,1,1,1,1,1,2,"N",8,53,7,2,161
+"Victor Gwee",15,420,16,4,"N",0,"Lose","N","Martin Teo",513,-93,1,0,0,1,1,2,"N",3,31,5,1,68
+"Tony Sim",15,427,19,5,"N",1,"Win","N","Tan Jin Chor",373,54,0,0,1,0,0,4,"N",5,35,5,2,162
+"Ricky Purnomo",15,404,14,6,"N",0,"Lose","N","Yeo Kian Hung",447,-43,0,0,1,0,1,2,"N",0,27,4,2,152
+"Victor Chua",15,271,13,7,"N",0,"Lose","N","Vannitha Balasingam",692,-421,0,1,1,1,0,0,"N",11,57,3,0,0
+"Michael Tang",15,421,12,8,"N",1,"Win","N","Aaron Chong",418,3,1,1,0,1,1,2,"N",0,30,6,1,92
+"Yong Jian Rong",15,440,15,9,"N",1,"Win","N","William Kang",361,79,1,0,1,1,1,4,"N",3,19,8,1,68
+"Shim Yen Nee",15,469,11,10,"N",1,"Win","N","Nigel Richards",351,118,2,1,1,1,1,3,"N",6,58,9,2,184
+"Nigel Richards",15,351,10,11,"N",0,"Lose","Y","Shim Yen Nee",469,-118,0,0,0,0,0,1,"N",12,27,1,1,69
+"Aaron Chong",15,418,8,12,"N",0,"Lose","Y","Michael Tang",421,-3,1,0,1,0,0,2,"N",6,5,4,2,146
+"Vannitha Balasingam",15,692,7,13,"N",1,"Win","Y","Victor Chua",271,421,2,0,0,0,1,4,"N",0,57,7,5,515
+"Yeo Kian Hung",15,447,6,14,"N",1,"Win","Y","Ricky Purnomo",404,43,2,1,0,1,0,2,"N",10,56,6,3,220
+"William Kang",15,361,9,15,"N",0,"Lose","Y","Yong Jian Rong",440,-79,1,1,0,0,0,0,"N",0,40,2,1,68
+"Martin Teo",15,513,4,16,"N",1,"Win","Y","Victor Gwee",420,93,1,1,1,0,0,2,"N",13,0,5,3,264
+"Vinnith Ramamurti",15,364,3,17,"N",0,"Lose","Y","Wong Zhi Yuan",458,-94,1,0,0,0,0,2,"N",0,36,3,2,143
+"Jocelyn Lor",15,469,2,18,"N",1,"Win","Y","Marlon Prudencio",365,104,1,0,0,0,1,3,"N",7,42,5,3,235
+"Tan Jin Chor",15,373,5,19,"N",0,"Lose","Y","Tony Sim",427,-54,2,1,0,1,1,0,"N",3,11,5,1,83
+"Alex Tan",15,438,1,20,"N",1,"Win","Y","Hubert Wee",391,47,1,1,1,0,1,2,"N",8,3,6,2,149
+"Hubert Wee",16,486,17,1,"N",1,"Win","Y","Vinnith Ramamurti",350,136,1,0,1,1,0,3,"N",6,50,6,2,156
+"Marlon Prudencio",16,502,20,2,"N",1,"Win","Y","Alex Tan",320,182,2,0,1,0,0,2,"N",13,45,5,4,294
+"Wong Zhi Yuan",16,382,15,3,"N",0,"Lose","Y","William Kang",435,-53,0,0,0,0,1,1,"N",4,10,2,1,87
+"Victor Gwee",16,395,18,4,"N",0,"Lose","Y","Jocelyn Lor",469,-74,1,0,1,1,0,2,"N",1,10,5,0,0
+"Tony Sim",16,390,13,5,"N",0,"Lose","Y","Vannitha Balasingam",424,-34,1,1,1,0,0,1,"N",0,3,4,1,69
+"Ricky Purnomo",16,440,19,6,"N",1,"Win","Y","Tan Jin Chor",345,95,1,0,1,0,1,1,"N",0,34,4,2,156
+"Victor Chua",16,441,11,7,"N",0,"Lose","Y","Nigel Richards",442,-1,1,0,1,1,1,2,"N",0,5,6,2,147
+"Michael Tang",16,426,14,8,"N",0,"Lose","Y","Yeo Kian Hung",457,-31,0,1,1,0,1,2,"N",10,38,5,1,84
+"Yong Jian Rong",16,473,16,9,"N",1,"Win","Y","Martin Teo",453,20,0,1,1,0,1,2,"N",9,23,5,2,163
+"Shim Yen Nee",16,390,12,10,"N",1,"Win","Y","Aaron Chong",371,19,1,1,0,0,1,1,"N",0,35,4,1,69
+"Nigel Richards",16,442,7,11,"N",1,"Win","N","Victor Chua",441,1,1,1,0,0,0,2,"N",8,12,4,3,223
+"Aaron Chong",16,371,10,12,"N",0,"Lose","N","Shim Yen Nee",390,-19,1,0,1,1,0,3,"N",2,7,6,1,65
+"Vannitha Balasingam",16,424,5,13,"N",1,"Win","N","Tony Sim",390,34,1,0,0,1,1,3,"N",0,5,6,2,140
+"Yeo Kian Hung",16,457,8,14,"N",1,"Win","N","Michael Tang",426,31,2,0,0,1,0,2,"N",2,7,5,3,212
+"William Kang",16,435,3,15,"N",1,"Win","N","Wong Zhi Yuan",382,53,2,1,1,1,0,3,"N",11,14,8,2,159
+"Martin Teo",16,453,9,16,"N",0,"Lose","N","Yong Jian Rong",473,-20,2,0,0,1,0,3,"N",0,42,6,3,228
+"Vinnith Ramamurti",16,350,1,17,"N",0,"Lose","N","Hubert Wee",486,-136,1,1,0,0,1,1,"N",7,20,4,1,77
+"Jocelyn Lor",16,469,4,18,"N",1,"Win","N","Victor Gwee",395,74,1,1,0,0,1,2,"N",9,25,5,3,221
+"Tan Jin Chor",16,345,6,19,"N",0,"Lose","N","Ricky Purnomo",440,-95,1,1,0,1,0,3,"N",8,12,6,1,79
+"Alex Tan",16,320,2,20,"N",0,"Lose","N","Marlon Prudencio",502,-182,0,1,0,1,1,2,"N",9,35,5,0,0
+"Hubert Wee",17,363,15,1,"N",0,"Lose","N","William Kang",398,-35,1,1,1,0,0,1,"N",0,16,4,1,80
+"Marlon Prudencio",17,480,17,2,"N",1,"Win","N","Vinnith Ramamurti",337,143,1,0,0,0,0,4,"N",2,24,5,3,219
+"Wong Zhi Yuan",17,385,19,3,"N",1,"Win","N","Tan Jin Chor",371,14,1,0,1,1,1,0,"N",12,10,4,1,61
+"Victor Gwee",17,376,20,4,"N",0,"Lose","N","Alex Tan",470,-94,0,0,1,1,1,1,"N",4,41,4,1,84
+"Tony Sim",17,396,11,5,"N",0,"Lose","N","Nigel Richards",489,-93,1,1,1,0,1,3,"N",0,37,7,1,80
+"Ricky Purnomo",17,425,18,6,"N",1,"Win","N","Jocelyn Lor",362,63,2,0,1,0,1,4,"N",1,7,8,3,206
+"Victor Chua",17,432,12,7,"N",1,"Win","N","Aaron Chong",416,16,2,1,1,0,0,1,"N",4,12,5,3,215
+"Michael Tang",17,324,16,8,"N",0,"Lose","N","Martin Teo",431,-107,1,1,0,1,0,2,"N",0,55,5,1,69
+"Yong Jian Rong",17,390,13,9,"N",0,"Lose","N","Vannitha Balasingam",485,-95,0,0,0,1,1,3,"N",13,20,5,0,0
+"Shim Yen Nee",17,319,14,10,"N",0,"Lose","N","Yeo Kian Hung",429,-110,1,1,0,0,0,2,"N",0,42,4,2,126
+"Nigel Richards",17,489,5,11,"N",1,"Win","Y","Tony Sim",396,93,1,0,0,1,0,1,"N",11,43,3,3,277
+"Aaron Chong",17,416,7,12,"N",0,"Lose","Y","Victor Chua",432,-16,0,0,0,1,1,3,"N",7,31,5,1,76
+"Vannitha Balasingam",17,485,9,13,"N",1,"Win","Y","Yong Jian Rong",390,95,2,1,1,0,0,1,"N",0,39,5,3,233
+"Yeo Kian Hung",17,429,10,14,"N",1,"Win","Y","Shim Yen Nee",319,110,1,0,1,1,1,2,"N",7,6,6,1,64
+"William Kang",17,398,1,15,"N",1,"Win","Y","Hubert Wee",363,35,1,0,0,1,1,3,"N",6,17,6,1,69
+"Martin Teo",17,431,8,16,"N",1,"Win","Y","Michael Tang",324,107,1,0,1,0,1,2,"N",14,35,5,2,137
+"Vinnith Ramamurti",17,337,2,17,"N",0,"Lose","Y","Marlon Prudencio",480,-143,1,1,1,1,1,0,"N",10,25,5,1,71
+"Jocelyn Lor",17,362,6,18,"N",0,"Lose","Y","Ricky Purnomo",425,-63,0,1,0,1,0,0,"N",5,49,2,0,0
+"Tan Jin Chor",17,371,3,19,"N",0,"Lose","Y","Wong Zhi Yuan",385,-14,1,1,0,0,0,4,"N",4,12,6,1,86
+"Alex Tan",17,470,4,20,"N",1,"Win","Y","Victor Gwee",376,94,2,1,0,0,0,3,"N",5,47,6,3,237
+"Hubert Wee",18,505,13,1,"N",1,"Win","Y","Vannitha Balasingam",370,135,0,1,0,1,1,1,"N",12,35,4,2,146
+"Marlon Prudencio",18,517,15,2,"N",1,"Win","Y","William Kang",407,110,1,1,0,1,0,2,"N",1,34,5,3,212
+"Wong Zhi Yuan",18,401,11,3,"N",1,"Win","Y","Nigel Richards",369,32,2,1,0,0,0,2,"N",2,28,5,2,155
+"Victor Gwee",18,476,17,4,"N",1,"Win","Y","Vinnith Ramamurti",355,121,1,0,1,0,0,4,"N",7,32,6,3,223
+"Tony Sim",18,438,12,5,"N",0,"Lose","Y","Aaron Chong",483,-45,0,0,1,0,0,2,"N",6,36,3,2,138
+"Ricky Purnomo",18,551,20,6,"N",1,"Win","Y","Alex Tan",374,177,1,1,0,0,1,4,"N",5,4,7,2,148
+"Victor Chua",18,534,14,7,"N",1,"Win","Y","Yeo Kian Hung",321,213,2,1,0,1,0,2,"N",5,39,6,4,302
+"Michael Tang",18,436,19,8,"N",1,"Win","Y","Tan Jin Chor",415,21,0,0,0,1,0,2,"N",1,5,3,2,142
+"Yong Jian Rong",18,387,18,9,"N",1,"Win","Y","Jocelyn Lor",368,19,0,0,1,1,0,2,"N",11,48,4,2,132
+"Shim Yen Nee",18,407,16,10,"N",1,"Win","Y","Martin Teo",374,33,1,0,1,0,0,2,"N",2,36,4,2,145
+"Nigel Richards",18,369,3,11,"N",0,"Lose","N","Wong Zhi Yuan",401,-32,0,0,1,1,1,2,"N",5,4,5,0,0
+"Aaron Chong",18,483,5,12,"N",1,"Win","N","Tony Sim",438,45,2,1,0,1,1,2,"N",10,6,7,3,229
+"Vannitha Balasingam",18,370,1,13,"N",0,"Lose","N","Hubert Wee",505,-135,2,0,1,0,0,3,"N",0,30,6,2,154
+"Yeo Kian Hung",18,321,7,14,"N",0,"Lose","N","Victor Chua",534,-213,0,0,1,0,1,2,"N",13,55,4,1,74
+"William Kang",18,407,2,15,"N",0,"Lose","N","Marlon Prudencio",517,-110,1,0,1,0,1,2,"N",13,47,5,2,148
+"Martin Teo",18,374,10,16,"N",0,"Lose","N","Shim Yen Nee",407,-33,1,1,0,1,1,2,"N",16,4,6,2,159
+"Vinnith Ramamurti",18,355,4,17,"N",0,"Lose","N","Victor Gwee",476,-121,1,1,0,1,1,0,"N",10,24,4,1,75
+"Jocelyn Lor",18,368,9,18,"N",0,"Lose","N","Yong Jian Rong",387,-19,2,1,0,0,1,2,"N",5,33,6,1,81
+"Tan Jin Chor",18,415,8,19,"N",0,"Lose","N","Michael Tang",436,-21,2,1,1,0,1,2,"N",0,14,7,2,142
+"Alex Tan",18,374,6,20,"N",0,"Lose","N","Ricky Purnomo",551,-177,1,0,1,1,0,0,"N",6,33,3,1,83
+"Hubert Wee",19,424,12,1,"N",1,"Win","N","Aaron Chong",397,27,1,1,1,1,0,2,"N",3,27,6,1,80
+"Marlon Prudencio",19,345,11,2,"N",0,"Lose","N","Nigel Richards",479,-134,0,1,1,0,1,0,"N",7,49,3,1,78
+"Wong Zhi Yuan",19,376,14,3,"N",0,"Lose","N","Yeo Kian Hung",451,-75,1,1,1,1,0,2,"N",6,56,6,2,128
+"Victor Gwee",19,438,13,4,"N",1,"Win","N","Vannitha Balasingam",398,40,2,1,0,1,0,3,"N",5,32,7,2,153
+"Tony Sim",19,318,16,5,"N",0,"Lose","N","Martin Teo",450,-132,1,0,1,1,0,0,"N",0,28,3,0,0
+"Ricky Purnomo",19,436,15,6,"N",1,"Win","N","William Kang",373,63,1,0,1,1,0,2,"N",3,43,5,2,192
+"Victor Chua",19,398,18,7,"N",0,"Lose","N","Jocelyn Lor",517,-119,1,0,0,0,0,3,"N",7,59,4,3,217
+"Michael Tang",19,397,17,8,"N",0,"Lose","N","Vinnith Ramamurti",401,-4,1,1,1,0,1,1,"N",0,56,5,2,151
+"Yong Jian Rong",19,448,20,9,"N",0,"Lose","N","Alex Tan",479,-31,1,0,0,1,1,1,"N",9,5,4,3,204
+"Shim Yen Nee",19,422,19,10,"N",0,"Lose","N","Tan Jin Chor",444,-22,1,0,1,1,0,2,"N",0,49,5,3,214
+"Nigel Richards",19,479,2,11,"N",1,"Win","Y","Marlon Prudencio",345,134,2,0,0,1,0,4,"N",9,8,7,3,220
+"Aaron Chong",19,397,1,12,"N",0,"Lose","Y","Hubert Wee",424,-27,1,0,0,0,1,2,"N",1,16,4,2,151
+"Vannitha Balasingam",19,398,4,13,"N",0,"Lose","Y","Victor Gwee",438,-40,0,0,1,0,1,1,"Y",0,29,3,1,76
+"Yeo Kian Hung",19,451,3,14,"N",1,"Win","Y","Wong Zhi Yuan",376,75,1,0,0,0,1,2,"N",12,31,4,2,161
+"William Kang",19,373,6,15,"N",0,"Lose","Y","Ricky Purnomo",436,-63,1,1,0,0,1,2,"N",6,32,5,2,134
+"Martin Teo",19,450,5,16,"N",1,"Win","Y","Tony Sim",318,132,1,1,0,0,1,4,"N",12,52,7,3,221
+"Vinnith Ramamurti",19,401,8,17,"N",1,"Win","Y","Michael Tang",397,4,1,0,0,1,0,3,"N",6,57,5,1,78
+"Jocelyn Lor",19,517,7,18,"N",1,"Win","Y","Victor Chua",398,119,1,1,1,1,1,1,"N",8,57,6,2,212
+"Tan Jin Chor",19,444,10,19,"N",1,"Win","Y","Shim Yen Nee",422,22,1,1,0,0,1,2,"N",10,36,5,2,150
+"Alex Tan",19,479,9,20,"N",1,"Win","Y","Yong Jian Rong",448,31,1,1,1,0,0,3,"N",14,42,6,3,260
+"Hubert Wee",20,495,11,1,"N",0,"Lose","Y","Nigel Richards",566,-71,1,1,1,0,1,1,"N",0,49,5,3,221
+"Marlon Prudencio",20,305,12,2,"N",0,"Lose","Y","Aaron Chong",475,-170,0,0,1,1,1,2,"N",3,49,5,0,0
+"Wong Zhi Yuan",20,502,13,3,"N",1,"Win","Y","Vannitha Balasingam",462,40,2,0,1,1,0,3,"N",12,6,7,2,163
+"Victor Gwee",20,457,14,4,"N",1,"Win","Y","Yeo Kian Hung",364,93,1,1,1,0,0,3,"N",10,38,6,2,154
+"Tony Sim",20,399,15,5,"N",1,"Win","Y","William Kang",361,38,1,1,0,0,1,4,"N",1,42,7,1,68
+"Ricky Purnomo",20,450,16,6,"N",1,"Win","Y","Martin Teo",387,63,0,1,1,1,1,2,"N",0,17,6,2,151
+"Victor Chua",20,400,17,7,"N",1,"Win","Y","Vinnith Ramamurti",363,37,0,0,0,1,1,3,"N",9,43,5,1,80
+"Michael Tang",20,404,18,8,"N",1,"Win","Y","Jocelyn Lor",355,49,2,0,0,0,0,0,"N",6,52,2,2,140
+"Yong Jian Rong",20,396,19,9,"N",0,"Lose","Y","Tan Jin Chor",422,-26,2,1,0,0,0,2,"N",7,56,5,2,147
+"Shim Yen Nee",20,371,20,10,"N",0,"Lose","Y","Alex Tan",587,-216,0,0,1,0,0,2,"N",2,55,3,2,131
+"Nigel Richards",20,566,1,11,"N",1,"Win","N","Hubert Wee",495,71,1,0,0,1,0,3,"N",14,57,5,5,399
+"Aaron Chong",20,475,2,12,"N",1,"Win","N","Marlon Prudencio",305,170,2,1,0,0,0,2,"N",10,26,5,2,141
+"Vannitha Balasingam",20,462,3,13,"N",0,"Lose","N","Wong Zhi Yuan",502,-40,0,1,0,0,1,1,"N",0,7,3,1,66
+"Yeo Kian Hung",20,364,4,14,"N",0,"Lose","N","Victor Gwee",457,-93,1,0,0,1,1,1,"N",4,26,4,2,133
+"William Kang",20,361,5,15,"N",0,"Lose","N","Tony Sim",399,-38,1,0,1,1,0,0,"N",6,43,3,1,90
+"Martin Teo",20,387,6,16,"N",0,"Lose","N","Ricky Purnomo",450,-63,2,0,0,0,0,2,"N",0,27,4,2,155
+"Vinnith Ramamurti",20,363,7,17,"N",0,"Lose","N","Victor Chua",400,-37,2,1,1,0,0,1,"N",4,5,5,1,67
+"Jocelyn Lor",20,355,8,18,"N",0,"Lose","N","Michael Tang",404,-49,0,1,1,1,1,4,"N",5,50,8,1,77
+"Tan Jin Chor",20,422,9,19,"N",1,"Win","N","Yong Jian Rong",396,26,0,0,1,1,1,2,"N",6,24,5,1,76
+"Alex Tan",20,587,10,20,"N",1,"Win","N","Shim Yen Nee",371,216,2,1,0,1,1,2,"N",10,0,7,4,292

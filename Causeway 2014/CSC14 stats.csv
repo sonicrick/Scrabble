@@ -1,0 +1,401 @@
+Round,Player,Blank,J,Q,X,Z,S,Overtime,Minute,Second
+1,Nigel Richards,0,1,1,1,0,3,N,11,26
+1,Aaron Chong,0,1,0,1,0,2,N,1,13
+1,Vannitha Balasingam,1,0,0,1,1,0,Y,2,48
+1,Yeo Kian Hung,2,1,0,0,0,1,N,7,18
+1,William Kang,2,1,0,0,0,3,N,6,40
+1,Martin Teo,2,0,0,1,1,3,N,8,17
+1,Vinnith Ramamurti,1,0,1,0,1,2,Y,0,16
+1,Jocelyn Lor,1,1,0,0,1,1,N,0,0
+1,Tan Jin Chor,1,1,1,1,0,3,N,3,0
+1,Alex Tan,2,1,0,0,1,1,N,13,18
+1,Hubert Wee,1,0,0,0,1,1,N,3,0
+1,Marlon Prudencio,1,1,1,0,0,4,N,1,26
+1,Wong Zhi Yuan,2,0,1,0,1,2,N,7,36
+1,Victor Gwee,0,0,1,1,1,1,N,0,21
+1,Tony Sim,0,0,1,1,1,3,N,2,23
+1,Ricky Purnomo,1,1,0,1,0,2,N,0,44
+1,Victor Chua,0,1,1,0,0,1,N,3,45
+1,Michael Tang,0,0,1,1,0,3,N,0,57
+1,Yong Jian Rong,2,0,0,0,1,1,N,0,6
+1,Shim Yen Nee,1,0,1,1,0,3,N,3,8
+2,Nigel Richards,2,0,1,0,0,1,N,8,5
+2,Aaron Chong,1,0,1,1,1,1,N,2,34
+2,Vannitha Balasingam,1,1,0,1,0,4,Y,0,47
+2,Yeo Kian Hung,1,1,0,1,0,2,N,8,50
+2,William Kang,2,0,1,0,0,2,N,3,15
+2,Martin Teo,0,1,1,0,1,2,N,4,4
+2,Vinnith Ramamurti,2,0,0,1,0,3,N,0,40
+2,Jocelyn Lor,1,1,0,1,0,0,N,4,12
+2,Tan Jin Chor,1,1,0,1,1,2,N,12,24
+2,Alex Tan,0,1,0,0,1,1,N,5,39
+2,Hubert Wee,1,0,1,0,1,2,N,6,47
+2,Marlon Prudencio,1,0,1,0,0,2,N,1,13
+2,Wong Zhi Yuan,2,0,0,1,0,2,N,2,37
+2,Victor Gwee,0,1,0,1,1,3,N,4,20
+2,Tony Sim,1,0,1,0,1,4,N,1,8
+2,Ricky Purnomo,1,0,1,0,1,0,Y,2,29
+2,Victor Chua,2,0,1,1,0,3,N,5,5
+2,Michael Tang,0,1,0,1,1,2,N,3,7
+2,Yong Jian Rong,1,1,0,0,0,3,N,10,7
+2,Shim Yen Nee,0,1,1,0,1,1,N,0,34
+3,Nigel Richards,0,0,1,1,0,2,N,6,48
+3,Aaron Chong,0,1,1,0,0,3,N,6,40
+3,Vannitha Balasingam,2,1,1,0,0,2,N,0,40
+3,Yeo Kian Hung,1,1,0,1,1,0,N,9,18
+3,William Kang,1,1,1,0,1,2,N,13,35
+3,Martin Teo,1,0,1,0,0,2,N,9,55
+3,Vinnith Ramamurti,1,1,1,0,1,2,N,4,53
+3,Jocelyn Lor,1,0,0,0,0,2,N,0,44
+3,Tan Jin Chor,2,0,1,0,1,3,N,3,9
+3,Alex Tan,0,0,0,1,1,2,N,7,54
+3,Hubert Wee,1,1,0,1,1,2,N,4,49
+3,Marlon Prudencio,1,0,1,0,0,4,N,5,47
+3,Wong Zhi Yuan,1,1,1,1,1,2,N,3,11
+3,Victor Gwee,2,0,0,1,1,1,N,2,49
+3,Tony Sim,2,1,1,0,0,2,N,0,8
+3,Ricky Purnomo,2,1,0,0,1,2,N,0,8
+3,Victor Chua,0,1,0,1,0,1,N,0,6
+3,Michael Tang,0,0,0,1,1,2,N,1,30
+3,Yong Jian Rong,1,0,0,1,0,2,N,3,3
+3,Shim Yen Nee,1,0,0,1,0,2,N,1,7
+4,Nigel Richards,2,1,0,1,0,3,N,7,49
+4,Aaron Chong,2,1,1,1,0,2,N,7,9
+4,Vannitha Balasingam,1,0,1,0,0,3,N,1,8
+4,Yeo Kian Hung,1,1,0,1,1,1,N,10,51
+4,William Kang,1,0,0,1,0,1,N,9,26
+4,Martin Teo,1,0,0,1,0,2,N,4,27
+4,Vinnith Ramamurti,0,1,1,0,0,0,N,9,55
+4,Jocelyn Lor,1,0,0,1,0,1,N,6,15
+4,Tan Jin Chor,1,0,0,0,1,3,N,3,57
+4,Alex Tan,1,1,0,0,0,0,N,2,39
+4,Hubert Wee,1,1,1,0,1,3,N,6,59
+4,Marlon Prudencio,1,1,1,0,1,2,N,4,3
+4,Wong Zhi Yuan,1,0,1,1,1,4,N,7,0
+4,Victor Gwee,1,1,1,1,0,1,N,1,15
+4,Tony Sim,2,0,0,1,1,4,N,2,6
+4,Ricky Purnomo,0,0,0,0,1,2,Y,0,56
+4,Victor Chua,1,1,1,0,1,3,N,1,2
+4,Michael Tang,0,0,1,0,1,1,N,2,54
+4,Yong Jian Rong,1,0,1,0,0,3,N,7,11
+4,Shim Yen Nee,1,1,0,1,1,1,N,0,57
+5,Nigel Richards,1,1,1,0,1,4,N,6,42
+5,Aaron Chong,1,0,0,1,1,0,N,5,48
+5,Vannitha Balasingam,2,1,0,1,1,2,N,0,22
+5,Yeo Kian Hung,2,0,0,1,0,2,N,14,3
+5,William Kang,1,0,1,1,0,1,N,1,30
+5,Martin Teo,1,0,0,1,1,3,N,12,19
+5,Vinnith Ramamurti,0,0,0,0,1,2,N,10,17
+5,Jocelyn Lor,0,1,0,1,0,2,N,6,34
+5,Tan Jin Chor,1,0,1,0,1,2,N,3,36
+5,Alex Tan,2,0,1,0,1,2,N,4,5
+5,Hubert Wee,0,1,0,1,0,2,N,6,32
+5,Marlon Prudencio,2,0,1,0,1,2,N,3,39
+5,Wong Zhi Yuan,2,1,1,1,0,2,N,2,18
+5,Victor Gwee,1,1,1,0,0,1,N,2,46
+5,Tony Sim,1,1,0,1,0,2,N,0,21
+5,Ricky Purnomo,0,1,1,0,1,2,Y,0,2
+5,Victor Chua,0,0,1,0,0,2,N,9,33
+5,Michael Tang,1,1,1,0,0,4,N,1,34
+5,Yong Jian Rong,1,1,0,0,1,3,N,8,32
+5,Shim Yen Nee,1,0,0,1,0,0,N,0,44
+6,Nigel Richards,2,0,1,1,1,3,N,7,9
+6,Aaron Chong,2,0,0,1,0,1,N,7,42
+6,Vannitha Balasingam,2,1,0,1,0,2,Y,0,43
+6,Yeo Kian Hung,1,1,1,1,0,2,N,8,23
+6,William Kang,2,0,1,1,1,2,N,8,1
+6,Martin Teo,0,0,0,1,1,2,N,6,28
+6,Vinnith Ramamurti,0,1,1,1,1,1,N,4,9
+6,Jocelyn Lor,1,0,0,0,0,2,N,0,23
+6,Tan Jin Chor,1,0,1,1,0,1,N,1,23
+6,Alex Tan,0,0,1,0,0,2,N,7,6
+6,Hubert Wee,2,0,0,0,0,3,N,9,13
+6,Marlon Prudencio,2,1,0,1,1,2,N,0,26
+6,Wong Zhi Yuan,0,1,0,0,0,2,N,3,27
+6,Victor Gwee,1,1,1,1,1,2,N,1,58
+6,Tony Sim,0,0,1,0,1,2,N,0,46
+6,Ricky Purnomo,1,1,0,0,1,3,N,3,11
+6,Victor Chua,0,1,0,0,0,1,N,7,31
+6,Michael Tang,1,0,0,0,1,2,N,10,8
+6,Yong Jian Rong,2,1,1,0,0,2,N,11,12
+6,Shim Yen Nee,0,1,1,0,1,3,N,7,47
+7,Nigel Richards,2,1,1,0,1,2,N,11,7
+7,Aaron Chong,2,0,0,1,1,1,N,7,37
+7,Vannitha Balasingam,1,0,1,0,0,2,N,5,22
+7,Yeo Kian Hung,2,1,1,1,1,3,N,14,54
+7,William Kang,1,1,0,0,1,2,N,9,59
+7,Martin Teo,2,1,0,1,0,1,N,1,20
+7,Vinnith Ramamurti,1,0,0,0,1,1,N,3,35
+7,Jocelyn Lor,0,1,1,1,1,2,N,8,30
+7,Tan Jin Chor,1,0,0,1,1,3,N,2,40
+7,Alex Tan,1,0,0,0,1,1,N,6,14
+7,Hubert Wee,1,0,1,1,0,2,N,10,11
+7,Marlon Prudencio,1,1,1,1,0,3,N,3,45
+7,Wong Zhi Yuan,1,1,1,0,0,1,N,13,45
+7,Victor Gwee,1,1,1,1,0,3,N,10,16
+7,Tony Sim,0,0,0,1,0,2,N,0,30
+7,Ricky Purnomo,2,0,0,0,0,2,N,3,18
+7,Victor Chua,0,1,1,0,0,3,N,1,59
+7,Michael Tang,0,0,1,0,1,3,N,7,45
+7,Yong Jian Rong,1,1,0,1,1,2,N,7,17
+7,Shim Yen Nee,0,0,0,0,0,1,N,1,29
+8,Nigel Richards,2,0,0,0,0,1,N,5,26
+8,Aaron Chong,2,1,1,1,1,1,N,9,14
+8,Vannitha Balasingam,1,0,1,0,1,2,,,
+8,Yeo Kian Hung,1,1,0,0,0,4,N,16,29
+8,William Kang,2,0,0,1,1,4,N,8,21
+8,Martin Teo,2,0,1,0,0,3,N,10,25
+8,Vinnith Ramamurti,2,1,0,0,0,2,N,9,39
+8,Jocelyn Lor,1,1,0,0,1,4,N,7,18
+8,Tan Jin Chor,0,1,1,0,0,1,N,8,7
+8,Alex Tan,2,1,1,0,1,4,N,5,0
+8,Hubert Wee,1,1,0,1,0,2,,,
+8,Marlon Prudencio,0,1,1,0,0,0,N,3,51
+8,Wong Zhi Yuan,0,1,1,1,1,3,N,4,29
+8,Victor Gwee,0,0,1,1,1,2,N,4,42
+8,Tony Sim,0,0,0,0,0,3,N,0,7
+8,Ricky Purnomo,0,0,0,1,0,0,N,0,3
+8,Victor Chua,1,0,1,1,1,0,N,6,4
+8,Michael Tang,2,0,0,1,1,3,N,10,18
+8,Yong Jian Rong,1,0,1,1,0,0,N,10,56
+8,Shim Yen Nee,0,1,0,1,1,1,N,0,46
+9,Nigel Richards,2,0,0,1,0,4,N,11,3
+9,Aaron Chong,0,1,0,0,1,1,N,5,34
+9,Vannitha Balasingam,1,0,1,1,0,2,N,0,41
+9,Yeo Kian Hung,0,1,0,1,0,3,N,14,40
+9,William Kang,0,0,1,1,1,3,N,13,54
+9,Martin Teo,0,0,0,0,1,4,N,7,24
+9,Vinnith Ramamurti,1,1,1,1,0,3,N,0,7
+9,Jocelyn Lor,0,0,1,0,0,1,N,7,45
+9,Tan Jin Chor,2,1,0,1,1,2,N,2,0
+9,Alex Tan,2,1,1,1,0,3,Y,2,4
+9,Hubert Wee,2,0,1,1,0,3,N,3,31
+9,Marlon Prudencio,0,1,1,0,1,0,N,7,7
+9,Wong Zhi Yuan,2,0,1,0,1,1,N,5,45
+9,Victor Gwee,1,1,0,0,1,2,N,4,9
+9,Tony Sim,2,1,1,1,0,0,N,1,13
+9,Ricky Purnomo,2,1,0,0,0,1,N,5,38
+9,Victor Chua,2,1,0,1,1,3,N,11,10
+9,Michael Tang,1,0,0,0,1,1,N,1,37
+9,Yong Jian Rong,0,0,0,0,1,1,N,11,33
+9,Shim Yen Nee,0,0,1,0,0,2,N,1,50
+10,Nigel Richards,1,1,0,0,1,2,N,2,16
+10,Aaron Chong,2,0,0,1,1,3,N,6,10
+10,Vannitha Balasingam,2,0,0,0,1,1,Y,1,25
+10,Yeo Kian Hung,2,1,0,0,1,1,N,10,26
+10,William Kang,1,1,1,1,1,2,N,13,58
+10,Martin Teo,0,0,0,1,1,3,N,9,22
+10,Vinnith Ramamurti,0,0,0,0,1,0,N,9,4
+10,Jocelyn Lor,1,1,1,0,0,1,N,13,1
+10,Tan Jin Chor,0,1,0,0,0,2,N,1,47
+10,Alex Tan,1,0,0,1,1,2,N,7,48
+10,Hubert Wee,1,0,1,1,0,2,N,0,6
+10,Marlon Prudencio,0,1,1,0,0,1,N,2,25
+10,Wong Zhi Yuan,0,1,1,1,0,3,N,11,42
+10,Victor Gwee,0,0,1,1,0,3,N,5,19
+10,Tony Sim,1,0,0,0,0,2,Y,4,15
+10,Ricky Purnomo,2,1,1,0,0,1,N,0,2
+10,Victor Chua,2,1,1,1,0,4,N,5,46
+10,Michael Tang,1,0,0,1,1,3,N,2,24
+10,Yong Jian Rong,2,0,1,1,1,2,N,15,9
+10,Shim Yen Nee,1,1,1,0,0,2,N,7,17
+11,Nigel Richards,2,0,1,0,0,1,N,10,20
+11,Aaron Chong,0,1,0,1,1,1,N,3,12
+11,Vannitha Balasingam,0,0,0,0,0,3,Y,1,24
+11,Yeo Kian Hung,0,1,1,0,1,1,N,7,48
+11,William Kang,2,0,1,0,1,1,N,4,34
+11,Martin Teo,0,1,1,0,1,2,N,0,4
+11,Vinnith Ramamurti,1,0,1,0,0,2,N,10,4
+11,Jocelyn Lor,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,Tan Jin Chor,0,1,1,1,1,2,,,
+11,Alex Tan,1,1,0,0,0,2,N,7,37
+11,Hubert Wee,2,0,0,0,0,2,,,
+11,Marlon Prudencio,2,1,1,1,1,1,N,13,43
+11,Wong Zhi Yuan,2,0,1,0,0,3,N,12,22
+11,Victor Gwee,0,1,0,1,0,3,N,5,46
+11,Tony Sim,2,0,0,1,0,3,N,2,3
+11,Ricky Purnomo,1,1,0,1,1,2,Y,2,36
+11,Victor Chua,2,0,0,1,0,2,N,0,3
+11,Michael Tang,1,0,1,1,1,2,N,1,58
+11,Yong Jian Rong,0,1,0,1,1,3,N,5,56
+11,Shim Yen Nee,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,Nigel Richards,1,0,0,0,1,3,N,11,30
+12,Aaron Chong,2,1,1,1,0,0,N,8,32
+12,Vannitha Balasingam,2,0,1,1,1,3,N,2,1
+12,Yeo Kian Hung,1,0,1,1,0,1,N,5,59
+12,William Kang,1,0,1,0,0,2,N,4,57
+12,Martin Teo,2,1,1,1,1,2,N,1,34
+12,Vinnith Ramamurti,2,1,1,1,0,2,N,12,49
+12,Jocelyn Lor,2,0,1,1,1,2,N,7,4
+12,Tan Jin Chor,0,1,0,1,1,2,N,5,36
+12,Alex Tan,1,1,0,0,0,1,N,8,2
+12,Hubert Wee,1,1,0,0,1,3,N,0,45
+12,Marlon Prudencio,2,0,1,0,0,2,N,8,43
+12,Wong Zhi Yuan,0,0,0,0,0,2,N,9,6
+12,Victor Gwee,1,1,1,1,0,1,N,1,34
+12,Tony Sim,0,1,0,0,0,2,N,0,39
+12,Ricky Purnomo,0,1,0,0,0,1,Y,0,56
+12,Victor Chua,1,0,1,1,1,3,N,5,13
+12,Michael Tang,1,1,0,1,1,2,N,5,16
+12,Yong Jian Rong,0,0,0,0,1,4,N,9,15
+12,Shim Yen Nee,0,0,0,0,1,2,N,2,58
+13,Nigel Richards,2,0,1,0,0,3,N,11,20
+13,Aaron Chong,0,0,1,0,0,2,N,0,31
+13,Vannitha Balasingam,1,1,1,0,0,0,N,0,14
+13,Yeo Kian Hung,1,0,0,0,1,1,N,15,0
+13,William Kang,2,0,0,0,1,3,N,4,29
+13,Martin Teo,1,0,0,1,1,2,N,9,8
+13,Vinnith Ramamurti,1,0,0,0,1,3,N,0,4
+13,Jocelyn Lor,1,0,0,1,0,0,N,3,2
+13,Tan Jin Chor,0,1,1,1,1,3,N,3,52
+13,Alex Tan,2,0,1,0,0,2,N,0,17
+13,Hubert Wee,1,1,1,0,0,2,N,9,32
+13,Marlon Prudencio,1,1,1,1,0,3,N,10,0
+13,Wong Zhi Yuan,1,1,1,0,1,4,N,14,31
+13,Victor Gwee,2,1,0,1,1,2,N,2,26
+13,Tony Sim,0,1,0,1,1,2,N,1,28
+13,Ricky Purnomo,0,1,0,1,1,1,Y,1,7
+13,Victor Chua,2,0,0,0,0,1,N,3,52
+13,Michael Tang,1,0,0,1,1,3,N,1,50
+13,Yong Jian Rong,1,1,1,1,0,1,N,2,42
+13,Shim Yen Nee,0,1,1,1,0,1,N,11,42
+14,Nigel Richards,1,1,1,1,0,3,N,13,46
+14,Aaron Chong,2,1,1,0,0,2,N,10,56
+14,Vannitha Balasingam,0,1,0,1,0,1,,,
+14,Yeo Kian Hung,1,1,1,1,1,1,N,14,18
+14,William Kang,1,1,0,1,1,0,N,6,52
+14,Martin Teo,1,0,0,0,1,3,N,1,48
+14,Vinnith Ramamurti,1,0,1,1,0,2,N,7,21
+14,Jocelyn Lor,1,0,1,1,1,3,N,2,45
+14,Tan Jin Chor,1,0,1,1,1,2,N,2,36
+14,Alex Tan,1,1,1,0,1,1,Y,6,0
+14,Hubert Wee,1,1,0,0,0,1,N,2,34
+14,Marlon Prudencio,1,1,1,1,0,1,N,5,28
+14,Wong Zhi Yuan,1,0,0,1,0,3,N,17,45
+14,Victor Gwee,1,1,0,0,0,2,N,5,27
+14,Tony Sim,1,1,0,0,1,2,N,0,56
+14,Ricky Purnomo,0,0,0,1,1,2,Y,1,56
+14,Victor Chua,1,0,1,0,0,4,N,4,30
+14,Michael Tang,1,0,0,0,1,1,N,1,27
+14,Yong Jian Rong,1,0,0,0,0,3,N,0,49
+14,Shim Yen Nee,2,0,1,0,1,3,,,
+15,Nigel Richards,0,0,0,0,0,1,N,12,27
+15,Aaron Chong,1,0,1,0,0,2,N,6,5
+15,Vannitha Balasingam,2,0,0,0,1,4,N,0,57
+15,Yeo Kian Hung,2,1,0,1,0,2,N,10,56
+15,William Kang,1,1,0,0,0,0,N,0,40
+15,Martin Teo,1,1,1,0,0,2,N,13,0
+15,Vinnith Ramamurti,1,0,0,0,0,2,N,0,36
+15,Jocelyn Lor,1,0,0,0,1,3,N,7,42
+15,Tan Jin Chor,2,1,0,1,1,0,N,3,11
+15,Alex Tan,1,1,1,0,1,2,N,8,3
+15,Hubert Wee,1,0,0,1,0,2,N,11,42
+15,Marlon Prudencio,1,1,1,1,0,1,N,1,47
+15,Wong Zhi Yuan,1,1,1,1,1,2,N,8,53
+15,Victor Gwee,1,0,0,1,1,2,N,3,31
+15,Tony Sim,0,0,1,0,0,4,N,5,35
+15,Ricky Purnomo,0,0,1,0,1,2,N,0,27
+15,Victor Chua,0,1,1,1,0,0,N,11,57
+15,Michael Tang,1,1,0,1,1,2,N,0,30
+15,Yong Jian Rong,1,0,1,1,1,4,N,3,19
+15,Shim Yen Nee,2,1,1,1,1,3,N,6,58
+16,Nigel Richards,1,1,0,0,0,2,N,8,12
+16,Aaron Chong,1,0,1,1,0,3,N,2,7
+16,Vannitha Balasingam,1,0,0,1,1,3,N,0,5
+16,Yeo Kian Hung,2,0,0,1,0,2,N,2,7
+16,William Kang,2,1,1,1,0,3,N,11,14
+16,Martin Teo,2,0,0,1,0,3,N,0,42
+16,Vinnith Ramamurti,1,1,0,0,1,1,N,7,20
+16,Jocelyn Lor,1,1,0,0,1,2,N,9,25
+16,Tan Jin Chor,1,1,0,1,0,3,N,8,12
+16,Alex Tan,0,1,0,1,1,2,N,9,35
+16,Hubert Wee,1,0,1,1,0,3,N,6,50
+16,Marlon Prudencio,2,0,1,0,0,2,N,13,45
+16,Wong Zhi Yuan,0,0,0,0,1,1,N,4,10
+16,Victor Gwee,1,0,1,1,0,2,N,1,10
+16,Tony Sim,1,1,1,0,0,1,N,0,3
+16,Ricky Purnomo,1,0,1,0,1,1,N,0,34
+16,Victor Chua,1,0,1,1,1,2,N,0,5
+16,Michael Tang,0,1,1,0,1,2,N,10,38
+16,Yong Jian Rong,0,1,1,0,1,2,N,9,23
+16,Shim Yen Nee,1,1,0,0,1,1,N,0,35
+17,Nigel Richards,1,0,0,1,0,1,N,11,43
+17,Aaron Chong,0,0,0,1,1,3,N,7,31
+17,Vannitha Balasingam,2,1,1,0,0,1,N,0,39
+17,Yeo Kian Hung,1,0,1,1,1,2,N,7,6
+17,William Kang,1,0,0,1,1,3,N,6,17
+17,Martin Teo,1,0,1,0,1,2,N,14,35
+17,Vinnith Ramamurti,1,1,1,1,1,0,N,10,25
+17,Jocelyn Lor,0,1,0,1,0,0,N,5,49
+17,Tan Jin Chor,1,1,0,0,0,4,N,4,12
+17,Alex Tan,2,1,0,0,0,3,N,5,47
+17,Hubert Wee,1,1,1,0,0,1,N,0,16
+17,Marlon Prudencio,1,0,0,0,0,4,N,2,24
+17,Wong Zhi Yuan,1,0,1,1,1,0,N,12,10
+17,Victor Gwee,0,0,1,1,1,1,N,4,41
+17,Tony Sim,1,1,1,0,1,3,N,0,37
+17,Ricky Purnomo,2,0,1,0,1,4,N,1,7
+17,Victor Chua,2,1,1,0,0,1,N,4,12
+17,Michael Tang,1,1,0,1,0,2,N,0,55
+17,Yong Jian Rong,0,0,0,1,1,3,N,13,20
+17,Shim Yen Nee,1,1,0,0,0,2,N,0,42
+18,Nigel Richards,0,0,1,1,1,2,N,5,4
+18,Aaron Chong,2,1,0,1,1,2,N,10,6
+18,Vannitha Balasingam,2,0,1,0,0,3,N,0,30
+18,Yeo Kian Hung,0,0,1,0,1,2,N,13,55
+18,William Kang,1,0,1,0,1,2,N,13,47
+18,Martin Teo,1,1,0,1,1,2,N,16,4
+18,Vinnith Ramamurti,1,1,0,1,1,0,N,10,24
+18,Jocelyn Lor,2,1,0,0,1,2,N,5,33
+18,Tan Jin Chor,2,1,1,0,1,2,N,0,14
+18,Alex Tan,1,0,1,1,0,0,N,6,33
+18,Hubert Wee,0,1,0,1,1,1,N,12,35
+18,Marlon Prudencio,1,1,0,1,0,2,N,1,34
+18,Wong Zhi Yuan,2,1,0,0,0,2,N,2,28
+18,Victor Gwee,1,0,1,0,0,4,N,7,32
+18,Tony Sim,0,0,1,0,0,2,N,6,36
+18,Ricky Purnomo,1,1,0,0,1,4,N,5,4
+18,Victor Chua,2,1,0,1,0,2,N,5,39
+18,Michael Tang,0,0,0,1,0,2,N,1,5
+18,Yong Jian Rong,0,0,1,1,0,2,N,11,48
+18,Shim Yen Nee,1,0,1,0,0,2,N,2,36
+19,Nigel Richards,2,0,0,1,0,4,N,9,8
+19,Aaron Chong,1,0,0,0,1,2,N,1,16
+19,Vannitha Balasingam,0,0,1,0,1,1,Y,0,29
+19,Yeo Kian Hung,1,0,0,0,1,2,N,12,31
+19,William Kang,1,1,0,0,1,2,N,6,32
+19,Martin Teo,1,1,0,0,1,4,N,12,52
+19,Vinnith Ramamurti,1,0,0,1,0,3,N,6,57
+19,Jocelyn Lor,1,1,1,1,1,1,N,8,57
+19,Tan Jin Chor,1,1,0,0,1,2,N,10,36
+19,Alex Tan,1,1,1,0,0,3,N,14,42
+19,Hubert Wee,1,1,1,1,0,2,N,3,27
+19,Marlon Prudencio,0,1,1,0,1,0,N,7,49
+19,Wong Zhi Yuan,1,1,1,1,0,2,N,6,56
+19,Victor Gwee,2,1,0,1,0,3,N,5,32
+19,Tony Sim,1,0,1,1,0,0,N,0,28
+19,Ricky Purnomo,1,0,1,1,0,2,N,3,43
+19,Victor Chua,1,0,0,0,0,3,N,7,59
+19,Michael Tang,1,1,1,0,1,1,N,0,56
+19,Yong Jian Rong,1,0,0,1,1,1,N,9,5
+19,Shim Yen Nee,1,0,1,1,0,2,N,0,49
+20,Nigel Richards,1,0,0,1,0,3,N,14,57
+20,Aaron Chong,2,1,0,0,0,2,N,10,26
+20,Vannitha Balasingam,0,1,0,0,1,1,N,0,7
+20,Yeo Kian Hung,1,0,0,1,1,1,N,4,26
+20,William Kang,1,0,1,1,0,0,N,6,43
+20,Martin Teo,2,0,0,0,0,2,N,0,27
+20,Vinnith Ramamurti,2,1,1,0,0,1,N,4,5
+20,Jocelyn Lor,0,1,1,1,1,4,N,5,50
+20,Tan Jin Chor,0,0,1,1,1,2,N,6,24
+20,Alex Tan,2,1,0,1,1,2,N,10,0
+20,Hubert Wee,1,1,1,0,1,1,N,0,49
+20,Marlon Prudencio,0,0,1,1,1,2,N,3,49
+20,Wong Zhi Yuan,2,0,1,1,0,3,N,12,6
+20,Victor Gwee,1,1,1,0,0,3,N,10,38
+20,Tony Sim,1,1,0,0,1,4,N,1,42
+20,Ricky Purnomo,0,1,1,1,1,2,N,0,17
+20,Victor Chua,0,0,0,1,1,3,N,9,43
+20,Michael Tang,2,0,0,0,0,0,N,6,52
+20,Yong Jian Rong,2,1,0,0,0,2,N,7,56
+20,Shim Yen Nee,0,0,1,0,0,2,N,2,55
