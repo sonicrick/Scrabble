@@ -2,7 +2,7 @@ source('~/GitHub/Scrabble/lib/aupair_lib.R')
 source('~/GitHub/Scrabble/lib/stat_lib.R')
 setwd("~/GitHub/Scrabble/Singapore Open 2014")
 
-touname <- "NATL2014.TOU"
+touname <- "SO14E.TOU"
 tou <- readTou(touname)
 
 f <- tou$games

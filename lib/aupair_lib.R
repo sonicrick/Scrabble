@@ -6,6 +6,11 @@ readTou <- function(touname, bye.style="SA") {
   division <- substr(txt[2], 2, nchar(txt[2]))
   #TO-DO: handle multiple divisions in single .TOU file?
   txt <- txt[4:(length(txt)-1)]
+  
+  #remove all asterisks: legacy of naming convention in SGOpen 2014
+  txt <- gsub("\\*", "", txt)
+  
+  
   #ensure all names have no spaces, then read all separated by white space as a column
   tou.records <- read.table(text = gsub(" +([[:alpha:]]+)", "_\\1", txt),
                     colClasses="character", header=FALSE, strip.white=TRUE,
