@@ -18,4 +18,6 @@ raw$Player.2. <- gsub(" - .*", "", raw$Player.2.)
 
 #create bingos file
 b.raw <- raw[, c(1:3, 5, 18:41)]
-bingos <- b.raw %>% gather(player, bingo, Player.1.Bingo.1. : Player.2.Bingo.6.score.)
+bingos <- b.raw %>% gather(key, value, starts_with("Player")) %>% separate(key, c("player", "property"), 9)
+bingos$property[bingos$property == ""] <- "name"
+bingos$property <- gsub("\\.[[:digit:]]\\.", "", bingos$property)
