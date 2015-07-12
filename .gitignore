@@ -1,4 +1,9 @@
 #################
+## Ricky local setting
+#################
+# local data file folders
+*/data
+#################
 ## Eclipse
 #################
 *.pydevproject
@@ -170,23 +175,24 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 .httr-oauth
-
-
 #############
 ## R
 #############
-
 # History files
 .Rhistory
 .Rapp.history
-
 # Example code in package build process
 *-Ex.R
-
 # RStudio files
 .Rproj.user
 .Rproj.user/
-
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+wordlists
+# various input and image files
+*.png
+*.csv
+*.xlsx
+*.jpg
+*.html
