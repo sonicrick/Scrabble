@@ -179,6 +179,15 @@ pip-log.txt
 #############
 ## R
 #############
+<<<<<<< HEAD
+
+*.zip
+
+# oversized data files
+*.RData
+
+=======
+>>>>>>> 74de83ec2f189706c3e045407d84138e6763bc89
 # History files
 .Rhistory
 .Rapp.history
