@@ -176,6 +176,9 @@ pip-log.txt
 ## R
 #############
 
+*.zip
+
+
 # History files
 .Rhistory
 .Rapp.history
