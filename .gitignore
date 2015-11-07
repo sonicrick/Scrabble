@@ -3,6 +3,7 @@
 #################
 # local data file folders
 */data
+*.zip
 #################
 ## Eclipse
 #################
