@@ -9,7 +9,7 @@ require(dplyr)
 require(tidyr)
 require(stringr)
 
-raw.gdoc <- read.csv("SSSg2015_Ro16.csv", stringsAsFactors = F)
+raw.gdoc <- read.csv("SSSg2015_QF.csv", stringsAsFactors = F)
 # raw.gdoc[, 3] <- gsub(" - .*", "", raw.gdoc[, 3])  #strip email from player 1 name
 # raw.gdoc[, 5] <- gsub(" - .*", "", raw.gdoc[, 5])  #strip email from player 2 name
 
@@ -76,10 +76,10 @@ for (x in score.col) {
 
 widestats[is.na(widestats)] <- ""
 
-tou.name <- "Ro16.TOU"
-tourney.name <- "SSSg 2015 Round of 16"
-tourney.date <- "2015-10-22"  # YYYY-MM-DD
-div.name <- "Round of 16"
+tou.name <- "QF.TOU"
+tourney.name <- "SSSg 2015 Quarter Finals"
+tourney.date <- "2015-11-22"  # YYYY-MM-DD
+div.name <- "Quarter Finals"
 
 cat(paste0("*M", tourney.date, " ", tourney.name),
     paste0("*", div.name),
@@ -105,7 +105,7 @@ b.raw <- data.frame(name=raw.stats$name,
 
 # format into one bingo per line
 # assumption is no one has more than 7 bingos in a game
-bingos <- b.raw %>% separate(bingos, paste0("bingo", 1:7), ",") %>%
+bingos <- b.raw %>% separate(bingos, paste0("bingo", 1:7), ",", extra="drop") %>%
   gather(key=no, value=bingo, bingo1:bingo7) %>%
   filter(bingo!="") %>%
   mutate(score = as.numeric(str_extract(bingo, "[:digit:]+")),
