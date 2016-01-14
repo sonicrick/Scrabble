@@ -206,4 +206,9 @@ wordlists
 *.xlsx
 *.jpg
 *.html
+<<<<<<< HEAD
 *.svg
+=======
+*.svg
+
+>>>>>>> 8666ad16c56178f62d905cc9d129bad172955857

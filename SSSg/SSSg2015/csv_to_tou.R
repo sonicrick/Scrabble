@@ -9,7 +9,14 @@ require(dplyr)
 require(tidyr)
 require(stringr)
 
-raw.gdoc <- read.csv("SSSg2015_QF.csv", stringsAsFactors = F)
+# <<<<<<< HEAD
+# raw.gdoc <- read.csv("SSSg2015_QF.csv", stringsAsFactors = F)
+# =======
+# raw.gdoc <- read.csv("SSSg2015_SF.csv", stringsAsFactors = F)
+# >>>>>>> 8666ad16c56178f62d905cc9d129bad172955857
+
+raw.gdoc <- read.csv("SSSg2015_finals.csv", stringsAsFactors = F)
+
 # raw.gdoc[, 3] <- gsub(" - .*", "", raw.gdoc[, 3])  #strip email from player 1 name
 # raw.gdoc[, 5] <- gsub(" - .*", "", raw.gdoc[, 5])  #strip email from player 2 name
 
@@ -18,7 +25,7 @@ raw.bingo <- raw.gdoc[, grepl("Bingo", names(raw.gdoc))]
 
 ### TODO: assign player names to bingos
 
-### extract stats
+### extract statsulc
 raw.stats <- raw.gdoc[, !grepl("Bingo", names(raw.gdoc))]  # drop all fields on bingos
 raw.stats <- raw.stats[, -1]  #remove timestamp field
 field.names <-
@@ -76,10 +83,22 @@ for (x in score.col) {
 
 widestats[is.na(widestats)] <- ""
 
-tou.name <- "QF.TOU"
-tourney.name <- "SSSg 2015 Quarter Finals"
-tourney.date <- "2015-11-22"  # YYYY-MM-DD
-div.name <- "Quarter Finals"
+# <<<<<<< HEAD
+# tou.name <- "QF.TOU"
+# tourney.name <- "SSSg 2015 Quarter Finals"
+# tourney.date <- "2015-11-22"  # YYYY-MM-DD
+# div.name <- "Quarter Finals"
+# =======
+# tou.name <- "SF.TOU"
+# tourney.name <- "SSSg 2015 Semifinals"
+# tourney.date <- "2015-12-06"  # YYYY-MM-DD
+# div.name <- "Semifinals"
+# >>>>>>> 8666ad16c56178f62d905cc9d129bad172955857
+
+tou.name <- "Final.TOU"
+tourney.name <- "SSSg 2015 Finals"
+tourney.date <- "2015-12-27"  # YYYY-MM-DD
+div.name <- "Finals"
 
 cat(paste0("*M", tourney.date, " ", tourney.name),
     paste0("*", div.name),
@@ -111,6 +130,8 @@ bingos <- b.raw %>% separate(bingos, paste0("bingo", 1:7), ",", extra="drop") %>
   mutate(score = as.numeric(str_extract(bingo, "[:digit:]+")),
          bingo = gsub("[ [:digit:]]", "", bingo))
 
+
+
 # derive bingo stats per game
 b.stats <- bingos %>% group_by(name, match.id, game) %>%
   summarize(bingo.num= n(),
@@ -137,4 +158,9 @@ sum.stats <- raw.stats %>% group_by(name) %>%
             ave.bingo.score = total.bingo.score/total.bingo,
             max.bingo.score = max(max.bingo.score, na.rm=T)
             )
+
+
+#output
+write.csv(sum.stats, paste0(tou.name, ".stat.csv"), row.names = F)
+write.csv(bingos, paste0(tou.name, ".bingos.csv"), row.names = F)
 
