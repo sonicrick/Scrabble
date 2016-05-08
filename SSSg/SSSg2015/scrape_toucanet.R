@@ -103,4 +103,4 @@ p <- ggplot(bingos, aes(x=name)) +
 
 pl <- ggplotly(p)
 
-psc <- plot_ly(bingos, r=prob, t=name)
+psc <- plot_ly(bingos, type="scatter",x=prob, y=name, mode="markers", hoverinfo="bingo+score")

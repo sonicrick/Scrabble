@@ -180,12 +180,9 @@ pip-log.txt
 ## R
 #############
 <<<<<<< HEAD
-
 *.zip
-
 # oversized data files
 *.RData
-
 =======
 >>>>>>> 74de83ec2f189706c3e045407d84138e6763bc89
 # History files
@@ -210,5 +207,5 @@ wordlists
 *.svg
 =======
 *.svg
-
 >>>>>>> 8666ad16c56178f62d905cc9d129bad172955857
+common_data
