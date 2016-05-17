@@ -12,7 +12,10 @@ library(stringr)
 # path.data <- "C:/Users/Ricky/Dropbox/scrabble/quackle/PISC 2013"
 # path.data <- "C:/Users/Ricky/Documents/GitHub/Scrabble/common_data/QvQsims/games_Speedy_Player_16.03_01.04.40"
 path.data <- "C:/Users/Ricky/Documents/GitHub/Scrabble/common_data/QvQsims/gcg_20160301"
-file.name <- "Speedy_Player-game-10018.gcg"
+path.output <- "C:/Users/Ricky/Documents/GitHub/Scrabble/common_data/QvQsims"
+
+file.name <- "Speedy_Player-game-4005.gcg"
+
 # file.name <- "Rd 11 Russell Honeybun vs RP.gcg"
 
 file.name <- file.path(path.data, file.name)
@@ -23,15 +26,18 @@ file.name <- file.path(path.data, file.name)
 findDiffTile <- function(x, y) {
 #   #debug
 #   cat(paste(x, y, '\n'))
+  # if y is NA, ie substract nothing, return x immediately
+  if (is.na(y) | y=="") return(x)
+  
+  
   # check different chars in x and y, y being the subsetC:\Users\Ricky\Documents\GitHub\Scrabble\common_data
   xl <- unlist(strsplit(x, "")) # split into char vector for comparison
   yl <- unlist(strsplit(y, ""))
 
-  # remove NAs since below can't have -NA
   pm <- pmatch(yl, xl)
+  # remove NAs since next step can't have -NA
   pm[is.na(pm)] <- 0
-  # l <- xl[-pmatch(yl, xl)]
-  l <- xl[-pm]
+  l <- xl[-pm] # remove unmatched characters
   
   # convert blanks to "" to avoid creating a list when findDiffTile is lapplied
   return(ifelse(length(l)==0, "", paste(l, collapse="")))
@@ -116,9 +122,9 @@ extractGcg <- function(file.name) {
   
   leave <- mapply(findDiffTile, rack, used.tiles, USE.NAMES = F)
   
-  picked.tiles <- "dummy"
-  # if failed challenge, no picked.tiles
-  
+#   picked.tiles <- "dummy"
+#   # if failed challenge, no picked.tiles
+  picked.tiles <- mapply(findDiffTile, lead(df$rack), df$leave)
 
     
   # get position information
@@ -132,12 +138,13 @@ extractGcg <- function(file.name) {
   play.col <- factor(str_extract(play.loc, "[A-O]"), levels=LETTERS[1:15])
   
   moves <- data.frame(player, turn, move.type, play.score, cume.score,
-                      rack, used.tiles, leave, picked.tiles, blanks,
-                      horizontal, play.row, play.col)
+                      rack, used.tiles, leave, blanks,
+                      horizontal, play.row, play.col,
+                      stringsAsFactors=F)
 
   # add challenge bonus points
   cb <- moves %>% filter(move.type == "Challenge bonus") %>% select(player, turn, play.score, cume.score)
-  # identify in main list
+  # identify in main list the plays where the bonus will be added to
   cb.idx <- which(!is.na(match(paste(moves$player, moves$turn, moves$move.type),
                                paste(cb$player, cb$turn, "Play"))))
   #create new field for challenge bonus
@@ -149,7 +156,7 @@ extractGcg <- function(file.name) {
   
   # add field for challenged off moves
   co <- moves %>% filter(move.type == "Challenged off") %>% select(player, turn, cume.score)
-  # identify in main list
+  # identify in main list the plays where the challenged off will be marked
   co.idx <- which(!is.na(match(paste(moves$player, moves$turn, moves$move.type),
                                paste(co$player, co$turn, "Play"))))
   #create new field for challenge bonus
@@ -159,8 +166,21 @@ extractGcg <- function(file.name) {
   # remove the challenged off lines
   moves <- moves %>% filter(move.type != "Challenged off")
   
+  # calculate picked tiles
+  pl <- moves %>% filter(move.type == "Play") %>% select(player, turn, rack, leave) %>%
+    group_by(player) %>% mutate(prev = lag(leave, order_by=player))  # each player's prev move
+  #ttst <- tapply(pl$leave, pl$player, lag)
+  # identify in main list the plays to map back the pick
+  pl.idx <- which(!is.na(match(paste(moves$player, moves$turn, moves$move.type),
+                               paste(pl$player, pl$turn, "Play"))))
+  #create new field for picked tiles
+  moves$picked <- character(nrow(moves))
+  moves$picked[pl.idx] <- mapply(findDiffTile, pl$rack, pl$prev)
+  
   game.data <- list(
-    pragma=pragma, moves=moves, events=events
+    pragma=pragma, 
+    events=events,  # omit to save space, assumed all info captured in moves
+    moves=moves
   )
   
 }
@@ -168,11 +188,12 @@ extractGcg <- function(file.name) {
 # get all gcgs in path data
 gcgs <- list.files(path.data)
 gcgs <- gcgs[str_detect(gcgs, "gcg$")]
-# to test, use just some
-gcgs <- gcgs[1:100]
+# # to test, use just some
+# gcgs <- gcgs[1:100]
 
 
 # gcg.data <- lapply(file.path(path.data, gcgs), extractGcg)
 setwd(path.data)
 gcg.data <- lapply(gcgs, extractGcg)
-# gcg.data <- extractGcg(file.path(path.data, file.name))
+
+save(gcg.data, file=file.path(path.output, "QvQStats.RData"))
